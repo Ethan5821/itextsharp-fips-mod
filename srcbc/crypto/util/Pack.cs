@@ -1,6 +1,6 @@
 using System;
 
-namespace Org.BouncyCastle.Crypto.Utilities
+namespace iTextSharp.Org.BouncyCastle.Crypto.Utilities
 {
 	internal sealed class Pack
 	{

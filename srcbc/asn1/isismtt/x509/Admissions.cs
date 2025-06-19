@@ -1,9 +1,9 @@
 using System;
 using System.Collections;
 
-using Org.BouncyCastle.Asn1.X509;
+using iTextSharp.Org.BouncyCastle.Asn1.X509;
 
-namespace Org.BouncyCastle.Asn1.IsisMtt.X509
+namespace iTextSharp.Org.BouncyCastle.Asn1.IsisMtt.X509
 {
 	/**
 	* An Admissions structure.
@@ -18,9 +18,9 @@ namespace Org.BouncyCastle.Asn1.IsisMtt.X509
 	* <p/>
 	* </pre>
 	*
-	* @see Org.BouncyCastle.Asn1.IsisMtt.X509.AdmissionSyntax
-	* @see Org.BouncyCastle.Asn1.IsisMtt.X509.ProfessionInfo
-	* @see Org.BouncyCastle.Asn1.IsisMtt.X509.NamingAuthority
+	* @see iTextSharp.Org.BouncyCastle.Asn1.IsisMtt.X509.AdmissionSyntax
+	* @see iTextSharp.Org.BouncyCastle.Asn1.IsisMtt.X509.ProfessionInfo
+	* @see iTextSharp.Org.BouncyCastle.Asn1.IsisMtt.X509.NamingAuthority
 	*/
 	public class Admissions
 		: Asn1Encodable

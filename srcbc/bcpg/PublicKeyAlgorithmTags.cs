@@ -1,4 +1,4 @@
-namespace Org.BouncyCastle.Bcpg
+namespace iTextSharp.Org.BouncyCastle.Bcpg
 {
 	/// <remarks>Public Key Algorithm tag numbers.</remarks>
     public enum PublicKeyAlgorithmTag

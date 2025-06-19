@@ -1,6 +1,6 @@
 using System;
 
-namespace Org.BouncyCastle.Utilities.Encoders
+namespace iTextSharp.Org.BouncyCastle.Utilities.Encoders
 {
     /// <summary>
     ///  A buffering class to allow translation from one format to another to

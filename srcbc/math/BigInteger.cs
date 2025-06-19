@@ -4,7 +4,7 @@ using System.Diagnostics;
 using System.Globalization;
 using System.Text;
 
-namespace Org.BouncyCastle.Math
+namespace iTextSharp.Org.BouncyCastle.Math
 {
 #if !NETCF_1_0
 	[Serializable]

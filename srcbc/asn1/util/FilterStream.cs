@@ -1,7 +1,7 @@
 using System;
 using System.IO;
 
-namespace Org.BouncyCastle.Asn1.Utilities
+namespace iTextSharp.Org.BouncyCastle.Asn1.Utilities
 {
     public class FilterStream : Stream
     {

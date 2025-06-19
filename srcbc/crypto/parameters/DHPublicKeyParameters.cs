@@ -1,8 +1,8 @@
 using System;
 
-using Org.BouncyCastle.Math;
+using iTextSharp.Org.BouncyCastle.Math;
 
-namespace Org.BouncyCastle.Crypto.Parameters
+namespace iTextSharp.Org.BouncyCastle.Crypto.Parameters
 {
     public class DHPublicKeyParameters
 		: DHKeyParameters

@@ -1,10 +1,10 @@
 using System;
 using System.Text;
 
-using Org.BouncyCastle.Crypto;
-using Org.BouncyCastle.Pkix;
+using iTextSharp.Org.BouncyCastle.Crypto;
+using iTextSharp.Org.BouncyCastle.Pkix;
 
-namespace Org.BouncyCastle.Pkix
+namespace iTextSharp.Org.BouncyCastle.Pkix
 {
 	/// <summary>
 	/// Summary description for PkixCertPathBuilderResult.

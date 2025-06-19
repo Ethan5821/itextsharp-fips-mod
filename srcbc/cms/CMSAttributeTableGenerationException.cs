@@ -1,6 +1,6 @@
 using System;
 
-namespace Org.BouncyCastle.Cms
+namespace iTextSharp.Org.BouncyCastle.Cms
 {
 	public class CmsAttributeTableGenerationException
 		: CmsException

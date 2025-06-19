@@ -1,9 +1,9 @@
 using System;
 using System.IO;
 
-using Org.BouncyCastle.Utilities.Date;
+using iTextSharp.Org.BouncyCastle.Utilities.Date;
 
-namespace Org.BouncyCastle.Bcpg
+namespace iTextSharp.Org.BouncyCastle.Bcpg
 {
 	/// <remarks>Basic packet for a PGP public key.</remarks>
     public class PublicKeyPacket

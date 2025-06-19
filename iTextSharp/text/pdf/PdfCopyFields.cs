@@ -2,7 +2,7 @@ using System;
 using System.Collections;
 using System.IO;
 using iTextSharp.text.pdf.interfaces;
-using Org.BouncyCastle.X509;
+using iTextSharp.Org.BouncyCastle.X509;
 /*
  * Copyright 2004 by Paulo Soares.
  *

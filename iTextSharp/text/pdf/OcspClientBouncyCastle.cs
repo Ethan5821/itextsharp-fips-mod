@@ -2,12 +2,12 @@ using System;
 using System.IO;
 using System.Collections;
 using System.Net;
-using Org.BouncyCastle.X509;
-using Org.BouncyCastle.Math;
-using Org.BouncyCastle.Ocsp;
-using Org.BouncyCastle.Asn1;
-using Org.BouncyCastle.Asn1.X509;
-using Org.BouncyCastle.Asn1.Ocsp;
+using iTextSharp.Org.BouncyCastle.X509;
+using iTextSharp.Org.BouncyCastle.Math;
+using iTextSharp.Org.BouncyCastle.Ocsp;
+using iTextSharp.Org.BouncyCastle.Asn1;
+using iTextSharp.Org.BouncyCastle.Asn1.X509;
+using iTextSharp.Org.BouncyCastle.Asn1.Ocsp;
 /*
  * $Id: OcspClientBouncyCastle.java 3959 2009-06-09 08:31:05Z blowagie $
  *
@@ -147,7 +147,7 @@ namespace iTextSharp.text.pdf {
                     if (status == CertificateStatus.Good) {
                         return basicResponse.GetEncoded();
                     }
-                    else if (status is Org.BouncyCastle.Ocsp.RevokedStatus) {
+                    else if (status is iTextSharp.Org.BouncyCastle.Ocsp.RevokedStatus) {
                         throw new IOException("OCSP Status is revoked!");
                     }
                     else {

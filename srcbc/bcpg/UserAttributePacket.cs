@@ -2,7 +2,7 @@ using System;
 using System.Collections;
 using System.IO;
 
-namespace Org.BouncyCastle.Bcpg
+namespace iTextSharp.Org.BouncyCastle.Bcpg
 {
     /**
     * Basic type for a user attribute packet.

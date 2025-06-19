@@ -1,16 +1,16 @@
 using System;
 using System.Globalization;
 
-using Org.BouncyCastle.Asn1;
-using Org.BouncyCastle.Asn1.Sec;
-using Org.BouncyCastle.Asn1.X9;
-using Org.BouncyCastle.Crypto;
-using Org.BouncyCastle.Crypto.Parameters;
-using Org.BouncyCastle.Math;
-using Org.BouncyCastle.Math.EC;
-using Org.BouncyCastle.Security;
+using iTextSharp.Org.BouncyCastle.Asn1;
+using iTextSharp.Org.BouncyCastle.Asn1.Sec;
+using iTextSharp.Org.BouncyCastle.Asn1.X9;
+using iTextSharp.Org.BouncyCastle.Crypto;
+using iTextSharp.Org.BouncyCastle.Crypto.Parameters;
+using iTextSharp.Org.BouncyCastle.Math;
+using iTextSharp.Org.BouncyCastle.Math.EC;
+using iTextSharp.Org.BouncyCastle.Security;
 
-namespace Org.BouncyCastle.Crypto.Generators
+namespace iTextSharp.Org.BouncyCastle.Crypto.Generators
 {
     public class ECKeyPairGenerator
 		: IAsymmetricCipherKeyPairGenerator

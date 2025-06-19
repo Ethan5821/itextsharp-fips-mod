@@ -2,13 +2,13 @@ using System;
 using System.IO;
 using System.Text;
 
-using Org.BouncyCastle.Asn1;
-using Org.BouncyCastle.Asn1.X509;
-using Org.BouncyCastle.Crypto;
-using Org.BouncyCastle.Utilities;
-using Org.BouncyCastle.X509;
+using iTextSharp.Org.BouncyCastle.Asn1;
+using iTextSharp.Org.BouncyCastle.Asn1.X509;
+using iTextSharp.Org.BouncyCastle.Crypto;
+using iTextSharp.Org.BouncyCastle.Utilities;
+using iTextSharp.Org.BouncyCastle.X509;
 
-namespace Org.BouncyCastle.Pkix
+namespace iTextSharp.Org.BouncyCastle.Pkix
 {
 	/// <summary>
 	/// A trust anchor or most-trusted Certification Authority (CA).

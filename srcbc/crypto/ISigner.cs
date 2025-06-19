@@ -2,7 +2,7 @@
 using System;
 using System.Text;
 
-namespace Org.BouncyCastle.Crypto
+namespace iTextSharp.Org.BouncyCastle.Crypto
 {
     public interface ISigner
     {

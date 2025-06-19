@@ -1,7 +1,7 @@
 using System;
-using Org.BouncyCastle.Security;
+using iTextSharp.Org.BouncyCastle.Security;
 
-namespace Org.BouncyCastle.Crypto
+namespace iTextSharp.Org.BouncyCastle.Crypto
 {
     /**
      * The base class for parameters to key generators.

@@ -1,9 +1,9 @@
 using System;
 using System.Collections;
 
-using Org.BouncyCastle.Utilities.Collections;
+using iTextSharp.Org.BouncyCastle.Utilities.Collections;
 
-namespace Org.BouncyCastle.Asn1.X509
+namespace iTextSharp.Org.BouncyCastle.Asn1.X509
 {
     public class X509Extensions
         : Asn1Encodable

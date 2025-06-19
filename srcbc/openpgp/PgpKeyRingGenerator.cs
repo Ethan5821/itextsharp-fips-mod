@@ -1,9 +1,9 @@
 using System;
 using System.Collections;
 
-using Org.BouncyCastle.Security;
+using iTextSharp.Org.BouncyCastle.Security;
 
-namespace Org.BouncyCastle.Bcpg.OpenPgp
+namespace iTextSharp.Org.BouncyCastle.Bcpg.OpenPgp
 {
 	/// <remarks>
 	/// Generator for a PGP master and subkey ring.

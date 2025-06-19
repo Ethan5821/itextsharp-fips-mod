@@ -2,7 +2,7 @@ using System;
 using System.Globalization;
 using System.Text;
 
-namespace Org.BouncyCastle.Asn1
+namespace iTextSharp.Org.BouncyCastle.Asn1
 {
     /**
      * Generalized time object.

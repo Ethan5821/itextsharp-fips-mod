@@ -1,9 +1,9 @@
 using System;
 using System.Collections;
-using Org.BouncyCastle.Utilities.Collections;
-using Org.BouncyCastle.X509;
+using iTextSharp.Org.BouncyCastle.Utilities.Collections;
+using iTextSharp.Org.BouncyCastle.X509;
 
-namespace Org.BouncyCastle.Pkix
+namespace iTextSharp.Org.BouncyCastle.Pkix
 {
     public abstract class PkixCertPathChecker
     {

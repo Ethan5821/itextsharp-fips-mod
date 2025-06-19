@@ -1,9 +1,9 @@
 using System;
 using System.Collections;
 
-using Org.BouncyCastle.Bcpg.Sig;
+using iTextSharp.Org.BouncyCastle.Bcpg.Sig;
 
-namespace Org.BouncyCastle.Bcpg.OpenPgp
+namespace iTextSharp.Org.BouncyCastle.Bcpg.OpenPgp
 {
 	/// <remarks>Generator for signature subpackets.</remarks>
     public class PgpSignatureSubpacketGenerator

@@ -1,8 +1,8 @@
 using System;
 
-using Org.BouncyCastle.Crypto.Parameters;
+using iTextSharp.Org.BouncyCastle.Crypto.Parameters;
 
-namespace Org.BouncyCastle.Crypto.Engines
+namespace iTextSharp.Org.BouncyCastle.Crypto.Engines
 {
 	/**
 	* Camellia - based on RFC 3713, smaller implementation, about half the size of CamelliaEngine.

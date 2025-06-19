@@ -1,9 +1,9 @@
 using System;
 
-using Org.BouncyCastle.Asn1;
-using Org.BouncyCastle.Asn1.Pkcs;
+using iTextSharp.Org.BouncyCastle.Asn1;
+using iTextSharp.Org.BouncyCastle.Asn1.Pkcs;
 
-namespace Org.BouncyCastle.Pkcs
+namespace iTextSharp.Org.BouncyCastle.Pkcs
 {
 	public class Pkcs12StoreBuilder
 	{

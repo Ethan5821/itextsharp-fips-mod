@@ -1,6 +1,6 @@
 using System.IO;
 
-namespace Org.BouncyCastle.Bcpg
+namespace iTextSharp.Org.BouncyCastle.Bcpg
 {
 	/// <remarks>Basic type for a PGP Signature sub-packet.</remarks>
     public class SignatureSubpacket

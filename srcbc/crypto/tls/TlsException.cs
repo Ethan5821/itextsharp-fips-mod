@@ -1,6 +1,6 @@
 using System;
 
-namespace Org.BouncyCastle.Crypto.Tls
+namespace iTextSharp.Org.BouncyCastle.Crypto.Tls
 {
 	public class TlsException : Exception
 	{

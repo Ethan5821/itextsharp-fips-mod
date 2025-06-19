@@ -1,6 +1,6 @@
-using Org.BouncyCastle.Math.EC;
+using iTextSharp.Org.BouncyCastle.Math.EC;
 
-namespace Org.BouncyCastle.Asn1.X9
+namespace iTextSharp.Org.BouncyCastle.Asn1.X9
 {
     /**
      * class for describing an ECPoint as a Der object.

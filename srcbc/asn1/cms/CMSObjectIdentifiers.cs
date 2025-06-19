@@ -1,6 +1,6 @@
-using Org.BouncyCastle.Asn1.Pkcs;
+using iTextSharp.Org.BouncyCastle.Asn1.Pkcs;
 
-namespace Org.BouncyCastle.Asn1.Cms
+namespace iTextSharp.Org.BouncyCastle.Asn1.Cms
 {
     public abstract class CmsObjectIdentifiers
     {

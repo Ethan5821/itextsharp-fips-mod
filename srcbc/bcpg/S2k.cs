@@ -1,10 +1,10 @@
 using System;
 using System.IO;
 
-using Org.BouncyCastle.Utilities;
-using Org.BouncyCastle.Utilities.IO;
+using iTextSharp.Org.BouncyCastle.Utilities;
+using iTextSharp.Org.BouncyCastle.Utilities.IO;
 
-namespace Org.BouncyCastle.Bcpg
+namespace iTextSharp.Org.BouncyCastle.Bcpg
 {
 	/// <remarks>The string to key specifier class.</remarks>
     public class S2k

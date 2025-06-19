@@ -1,8 +1,8 @@
 using System;
 
-using Org.BouncyCastle.Asn1;
+using iTextSharp.Org.BouncyCastle.Asn1;
 
-namespace Org.BouncyCastle.Asn1.X509
+namespace iTextSharp.Org.BouncyCastle.Asn1.X509
 {
     public class AttributeX509
         : Asn1Encodable

@@ -1,10 +1,10 @@
 using System;
 
-using Org.BouncyCastle.Crypto;
-using Org.BouncyCastle.Crypto.Parameters;
-using Org.BouncyCastle.Security;
+using iTextSharp.Org.BouncyCastle.Crypto;
+using iTextSharp.Org.BouncyCastle.Crypto.Parameters;
+using iTextSharp.Org.BouncyCastle.Security;
 
-namespace Org.BouncyCastle.Crypto.Paddings
+namespace iTextSharp.Org.BouncyCastle.Crypto.Paddings
 {
 	/**
 	* A wrapper class that allows block ciphers to be used to process data in

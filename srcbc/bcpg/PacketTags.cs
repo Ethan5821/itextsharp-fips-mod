@@ -1,4 +1,4 @@
-namespace Org.BouncyCastle.Bcpg
+namespace iTextSharp.Org.BouncyCastle.Bcpg
 {
 	/// <remarks>Basic PGP packet tag types.</remarks>
     public enum PacketTag

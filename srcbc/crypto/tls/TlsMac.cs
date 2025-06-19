@@ -1,11 +1,11 @@
 using System;
 using System.IO;
 
-using Org.BouncyCastle.Crypto.Digests;
-using Org.BouncyCastle.Crypto.Macs;
-using Org.BouncyCastle.Crypto.Parameters;
+using iTextSharp.Org.BouncyCastle.Crypto.Digests;
+using iTextSharp.Org.BouncyCastle.Crypto.Macs;
+using iTextSharp.Org.BouncyCastle.Crypto.Parameters;
 
-namespace Org.BouncyCastle.Crypto.Tls
+namespace iTextSharp.Org.BouncyCastle.Crypto.Tls
 {
 	/// <remarks>
 	/// A generic TLS MAC implementation, which can be used with any kind of

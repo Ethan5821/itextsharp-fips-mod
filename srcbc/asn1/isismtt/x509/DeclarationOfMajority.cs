@@ -1,6 +1,6 @@
 using System;
 
-namespace Org.BouncyCastle.Asn1.IsisMtt.X509
+namespace iTextSharp.Org.BouncyCastle.Asn1.IsisMtt.X509
 {
 	/**
 	* A declaration of majority.

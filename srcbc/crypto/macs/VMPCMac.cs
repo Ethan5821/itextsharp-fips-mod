@@ -1,8 +1,8 @@
 using System;
 
-using Org.BouncyCastle.Crypto.Parameters;
+using iTextSharp.Org.BouncyCastle.Crypto.Parameters;
 
-namespace Org.BouncyCastle.Crypto.Macs
+namespace iTextSharp.Org.BouncyCastle.Crypto.Macs
 {
 	public class VmpcMac
 		: IMac

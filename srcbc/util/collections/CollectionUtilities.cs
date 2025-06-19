@@ -2,7 +2,7 @@ using System;
 using System.Collections;
 using System.Text;
 
-namespace Org.BouncyCastle.Utilities.Collections
+namespace iTextSharp.Org.BouncyCastle.Utilities.Collections
 {
 	public sealed class CollectionUtilities
 	{

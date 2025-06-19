@@ -1,7 +1,7 @@
 using System;
 using System.Collections;
 
-namespace Org.BouncyCastle.Asn1.Pkcs
+namespace iTextSharp.Org.BouncyCastle.Asn1.Pkcs
 {
     public class PbeS2Parameters
         : Asn1Encodable

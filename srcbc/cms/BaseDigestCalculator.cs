@@ -1,8 +1,8 @@
 using System;
 
-using Org.BouncyCastle.Utilities;
+using iTextSharp.Org.BouncyCastle.Utilities;
 
-namespace Org.BouncyCastle.Cms
+namespace iTextSharp.Org.BouncyCastle.Cms
 {
 	internal class BaseDigestCalculator
 		: IDigestCalculator

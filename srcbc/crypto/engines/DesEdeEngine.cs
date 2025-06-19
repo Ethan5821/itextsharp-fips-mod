@@ -1,8 +1,8 @@
 using System;
 
-using Org.BouncyCastle.Crypto.Parameters;
+using iTextSharp.Org.BouncyCastle.Crypto.Parameters;
 
-namespace Org.BouncyCastle.Crypto.Engines
+namespace iTextSharp.Org.BouncyCastle.Crypto.Engines
 {
 	/// <remarks>A class that provides a basic DESede (or Triple DES) engine.</remarks>
     public class DesEdeEngine

@@ -1,11 +1,11 @@
 using System;
 using System.IO;
 
-using Org.BouncyCastle.Asn1;
-using Org.BouncyCastle.Asn1.Cms;
-using Org.BouncyCastle.Utilities.Zlib;
+using iTextSharp.Org.BouncyCastle.Asn1;
+using iTextSharp.Org.BouncyCastle.Asn1.Cms;
+using iTextSharp.Org.BouncyCastle.Utilities.Zlib;
 
-namespace Org.BouncyCastle.Cms
+namespace iTextSharp.Org.BouncyCastle.Cms
 {
     /**
     * containing class for an CMS Compressed Data object

@@ -1,7 +1,7 @@
 using System;
 using System.IO;
 
-namespace Org.BouncyCastle.Cms
+namespace iTextSharp.Org.BouncyCastle.Cms
 {
     public interface CmsProcessable
     {

@@ -60,7 +60,7 @@ using System;
  * great code.
  */
 
-namespace Org.BouncyCastle.Apache.Bzip2
+namespace iTextSharp.Org.BouncyCastle.Apache.Bzip2
 {
     /**
     * Base class for both the compress and decompress classes.

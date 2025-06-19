@@ -1,8 +1,8 @@
 using System;
 
-using Org.BouncyCastle.Asn1;
+using iTextSharp.Org.BouncyCastle.Asn1;
 
-namespace Org.BouncyCastle.Crypto.Agreement.Kdf
+namespace iTextSharp.Org.BouncyCastle.Crypto.Agreement.Kdf
 {
 	/**
 	* RFC 2631 Diffie-hellman KEK derivation function.

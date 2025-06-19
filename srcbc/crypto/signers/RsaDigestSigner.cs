@@ -3,19 +3,19 @@ using System.Collections;
 using System.IO;
 using System.Text;
 
-using Org.BouncyCastle.Asn1;
-using Org.BouncyCastle.Asn1.Nist;
-using Org.BouncyCastle.Asn1.Pkcs;
-using Org.BouncyCastle.Asn1.TeleTrust;
-using Org.BouncyCastle.Asn1.Utilities;
-using Org.BouncyCastle.Asn1.X509;
-using Org.BouncyCastle.Crypto.Parameters;
-using Org.BouncyCastle.Crypto.Encodings;
-using Org.BouncyCastle.Crypto.Engines;
-using Org.BouncyCastle.Crypto.Signers;
-using Org.BouncyCastle.Security;
+using iTextSharp.Org.BouncyCastle.Asn1;
+using iTextSharp.Org.BouncyCastle.Asn1.Nist;
+using iTextSharp.Org.BouncyCastle.Asn1.Pkcs;
+using iTextSharp.Org.BouncyCastle.Asn1.TeleTrust;
+using iTextSharp.Org.BouncyCastle.Asn1.Utilities;
+using iTextSharp.Org.BouncyCastle.Asn1.X509;
+using iTextSharp.Org.BouncyCastle.Crypto.Parameters;
+using iTextSharp.Org.BouncyCastle.Crypto.Encodings;
+using iTextSharp.Org.BouncyCastle.Crypto.Engines;
+using iTextSharp.Org.BouncyCastle.Crypto.Signers;
+using iTextSharp.Org.BouncyCastle.Security;
 
-namespace Org.BouncyCastle.Crypto.Signers
+namespace iTextSharp.Org.BouncyCastle.Crypto.Signers
 {
     public class RsaDigestSigner
 		: ISigner

@@ -1,8 +1,8 @@
 using System;
 
-using Org.BouncyCastle.Asn1;
+using iTextSharp.Org.BouncyCastle.Asn1;
 
-namespace Org.BouncyCastle.Asn1.CryptoPro
+namespace iTextSharp.Org.BouncyCastle.Asn1.CryptoPro
 {
     public abstract class CryptoProObjectIdentifiers
     {

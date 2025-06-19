@@ -10,7 +10,7 @@ using iTextSharp.text.pdf.interfaces;
 using iTextSharp.text.pdf.intern;
 using iTextSharp.text.pdf.collection;
 using iTextSharp.text.xml.xmp;
-using Org.BouncyCastle.X509;
+using iTextSharp.Org.BouncyCastle.X509;
 /*
  * $Id: PdfWriter.cs,v 1.48 2008/05/13 11:25:23 psoares33 Exp $
  * 
@@ -3011,7 +3011,7 @@ namespace iTextSharp.text.pdf {
         protected internal PdfIndirectReference GetReferenceJBIG2Globals(byte[] content) {
             if (content == null) return null;
             foreach (PdfStream str in JBIG2Globals.Keys) {
-                if (Org.BouncyCastle.Utilities.Arrays.AreEqual(content, str.GetBytes())) {
+                if (iTextSharp.Org.BouncyCastle.Utilities.Arrays.AreEqual(content, str.GetBytes())) {
                     return (PdfIndirectReference) JBIG2Globals[str];
                 }
             }

@@ -1,14 +1,14 @@
 using System.Collections;
 using System.Globalization;
 
-using Org.BouncyCastle.Asn1;
-using Org.BouncyCastle.Asn1.X9;
-using Org.BouncyCastle.Crypto;
-using Org.BouncyCastle.Crypto.Agreement;
-using Org.BouncyCastle.Crypto.Agreement.Kdf;
-using Org.BouncyCastle.Crypto.Digests;
+using iTextSharp.Org.BouncyCastle.Asn1;
+using iTextSharp.Org.BouncyCastle.Asn1.X9;
+using iTextSharp.Org.BouncyCastle.Crypto;
+using iTextSharp.Org.BouncyCastle.Crypto.Agreement;
+using iTextSharp.Org.BouncyCastle.Crypto.Agreement.Kdf;
+using iTextSharp.Org.BouncyCastle.Crypto.Digests;
 
-namespace Org.BouncyCastle.Security
+namespace iTextSharp.Org.BouncyCastle.Security
 {
 	/// <remarks>
 	///  Utility class for creating IBasicAgreement objects from their names/Oids

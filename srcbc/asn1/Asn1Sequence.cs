@@ -1,9 +1,9 @@
 using System;
 using System.Collections;
 
-using Org.BouncyCastle.Utilities.Collections;
+using iTextSharp.Org.BouncyCastle.Utilities.Collections;
 
-namespace Org.BouncyCastle.Asn1
+namespace iTextSharp.Org.BouncyCastle.Asn1
 {
     public abstract class Asn1Sequence
 		: Asn1Object, IEnumerable

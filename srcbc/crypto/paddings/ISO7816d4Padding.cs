@@ -1,9 +1,9 @@
 using System;
 
-using Org.BouncyCastle.Crypto;
-using Org.BouncyCastle.Security;
+using iTextSharp.Org.BouncyCastle.Crypto;
+using iTextSharp.Org.BouncyCastle.Security;
 
-namespace Org.BouncyCastle.Crypto.Paddings
+namespace iTextSharp.Org.BouncyCastle.Crypto.Paddings
 {
 	/**
 	 * A padder that adds the padding according to the scheme referenced in

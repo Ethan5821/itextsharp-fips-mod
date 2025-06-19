@@ -1,11 +1,11 @@
 using System;
 using System.Collections;
 
-using Org.BouncyCastle.Asn1.Ocsp;
-using Org.BouncyCastle.Asn1.X509;
-using Org.BouncyCastle.Utilities.Collections;
+using iTextSharp.Org.BouncyCastle.Asn1.Ocsp;
+using iTextSharp.Org.BouncyCastle.Asn1.X509;
+using iTextSharp.Org.BouncyCastle.Utilities.Collections;
 
-namespace Org.BouncyCastle.Asn1.Esf
+namespace iTextSharp.Org.BouncyCastle.Asn1.Esf
 {
 	/// <remarks>
 	/// RFC 3126: 4.3.2 Revocation Values Attribute Definition

@@ -1,9 +1,9 @@
 using System;
 using System.IO;
-using Org.BouncyCastle.Bcpg.Sig;
-using Org.BouncyCastle.Utilities.IO;
+using iTextSharp.Org.BouncyCastle.Bcpg.Sig;
+using iTextSharp.Org.BouncyCastle.Utilities.IO;
 
-namespace Org.BouncyCastle.Bcpg
+namespace iTextSharp.Org.BouncyCastle.Bcpg
 {
 	/**
 	* reader for signature sub-packets

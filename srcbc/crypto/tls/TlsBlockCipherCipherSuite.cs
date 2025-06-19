@@ -1,10 +1,10 @@
 using System;
 using System.Text;
 
-using Org.BouncyCastle.Crypto.Digests;
-using Org.BouncyCastle.Crypto.Parameters;
+using iTextSharp.Org.BouncyCastle.Crypto.Digests;
+using iTextSharp.Org.BouncyCastle.Crypto.Parameters;
 
-namespace Org.BouncyCastle.Crypto.Tls
+namespace iTextSharp.Org.BouncyCastle.Crypto.Tls
 {
 	/// <remarks>A generic TLS 1.0 block cipher suite. This can be used for AES or 3DES for example.</remarks>
 	public class TlsBlockCipherCipherSuite

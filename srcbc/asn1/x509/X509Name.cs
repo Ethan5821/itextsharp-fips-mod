@@ -4,10 +4,10 @@ using System.Globalization;
 using System.IO;
 using System.Text;
 
-using Org.BouncyCastle.Asn1.Pkcs;
-using Org.BouncyCastle.Utilities.Encoders;
+using iTextSharp.Org.BouncyCastle.Asn1.Pkcs;
+using iTextSharp.Org.BouncyCastle.Utilities.Encoders;
 
-namespace Org.BouncyCastle.Asn1.X509
+namespace iTextSharp.Org.BouncyCastle.Asn1.X509
 {
     /**
     * <pre>

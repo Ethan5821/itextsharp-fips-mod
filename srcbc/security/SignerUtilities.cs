@@ -3,19 +3,19 @@ using System.Collections;
 using System.Globalization;
 using System.IO;
 
-using Org.BouncyCastle.Asn1;
-using Org.BouncyCastle.Asn1.CryptoPro;
-using Org.BouncyCastle.Asn1.Nist;
-using Org.BouncyCastle.Asn1.Pkcs;
-using Org.BouncyCastle.Asn1.TeleTrust;
-using Org.BouncyCastle.Asn1.X9;
-using Org.BouncyCastle.Security;
-using Org.BouncyCastle.Crypto.Digests;
-using Org.BouncyCastle.Crypto;
-using Org.BouncyCastle.Crypto.Engines;
-using Org.BouncyCastle.Crypto.Signers;
+using iTextSharp.Org.BouncyCastle.Asn1;
+using iTextSharp.Org.BouncyCastle.Asn1.CryptoPro;
+using iTextSharp.Org.BouncyCastle.Asn1.Nist;
+using iTextSharp.Org.BouncyCastle.Asn1.Pkcs;
+using iTextSharp.Org.BouncyCastle.Asn1.TeleTrust;
+using iTextSharp.Org.BouncyCastle.Asn1.X9;
+using iTextSharp.Org.BouncyCastle.Security;
+using iTextSharp.Org.BouncyCastle.Crypto.Digests;
+using iTextSharp.Org.BouncyCastle.Crypto;
+using iTextSharp.Org.BouncyCastle.Crypto.Engines;
+using iTextSharp.Org.BouncyCastle.Crypto.Signers;
 
-namespace Org.BouncyCastle.Security
+namespace iTextSharp.Org.BouncyCastle.Security
 {
     /// <summary>
     ///  Signer Utility class contains methods that can not be specifically grouped into other classes.

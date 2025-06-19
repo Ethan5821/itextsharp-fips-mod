@@ -1,9 +1,9 @@
 using System;
 
-using Org.BouncyCastle.Crypto.Parameters;
-using Org.BouncyCastle.Math;
+using iTextSharp.Org.BouncyCastle.Crypto.Parameters;
+using iTextSharp.Org.BouncyCastle.Math;
 
-namespace Org.BouncyCastle.Crypto.Engines
+namespace iTextSharp.Org.BouncyCastle.Crypto.Engines
 {
     /**
     * support class for constructing intergrated encryption ciphers

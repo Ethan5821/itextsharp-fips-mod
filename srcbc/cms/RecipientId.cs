@@ -1,11 +1,11 @@
 using System;
 
-using Org.BouncyCastle.Asn1.X509;
-using Org.BouncyCastle.Math;
-using Org.BouncyCastle.Utilities;
-using Org.BouncyCastle.X509.Store;
+using iTextSharp.Org.BouncyCastle.Asn1.X509;
+using iTextSharp.Org.BouncyCastle.Math;
+using iTextSharp.Org.BouncyCastle.Utilities;
+using iTextSharp.Org.BouncyCastle.X509.Store;
 
-namespace Org.BouncyCastle.Cms
+namespace iTextSharp.Org.BouncyCastle.Cms
 {
     public class RecipientID
         : X509CertStoreSelector

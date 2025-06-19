@@ -1,10 +1,10 @@
 using System;
 
-using Org.BouncyCastle.Math;
-using Org.BouncyCastle.Math.EC;
-using Org.BouncyCastle.Utilities;
+using iTextSharp.Org.BouncyCastle.Math;
+using iTextSharp.Org.BouncyCastle.Math.EC;
+using iTextSharp.Org.BouncyCastle.Utilities;
 
-namespace Org.BouncyCastle.Crypto.Parameters
+namespace iTextSharp.Org.BouncyCastle.Crypto.Parameters
 {
     public class ECDomainParameters
     {

@@ -4,19 +4,19 @@ using System.Globalization;
 using System.IO;
 using System.Text;
 
-using Org.BouncyCastle.Asn1;
-using Org.BouncyCastle.Asn1.Oiw;
-using Org.BouncyCastle.Asn1.Pkcs;
-using Org.BouncyCastle.Asn1.X509;
-using Org.BouncyCastle.Asn1.Utilities;
-using Org.BouncyCastle.Crypto;
-using Org.BouncyCastle.Security;
-using Org.BouncyCastle.Utilities;
-using Org.BouncyCastle.Utilities.Collections;
-using Org.BouncyCastle.Utilities.Encoders;
-using Org.BouncyCastle.X509;
+using iTextSharp.Org.BouncyCastle.Asn1;
+using iTextSharp.Org.BouncyCastle.Asn1.Oiw;
+using iTextSharp.Org.BouncyCastle.Asn1.Pkcs;
+using iTextSharp.Org.BouncyCastle.Asn1.X509;
+using iTextSharp.Org.BouncyCastle.Asn1.Utilities;
+using iTextSharp.Org.BouncyCastle.Crypto;
+using iTextSharp.Org.BouncyCastle.Security;
+using iTextSharp.Org.BouncyCastle.Utilities;
+using iTextSharp.Org.BouncyCastle.Utilities.Collections;
+using iTextSharp.Org.BouncyCastle.Utilities.Encoders;
+using iTextSharp.Org.BouncyCastle.X509;
 
-namespace Org.BouncyCastle.Pkcs
+namespace iTextSharp.Org.BouncyCastle.Pkcs
 {
 	public class Pkcs12Store
 	{

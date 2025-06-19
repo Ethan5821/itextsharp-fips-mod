@@ -2,12 +2,12 @@ using System;
 using System.Collections;
 using System.IO;
 
-using Org.BouncyCastle.Asn1;
-using Org.BouncyCastle.Asn1.Cms;
-using Org.BouncyCastle.Asn1.X509;
-using Org.BouncyCastle.Crypto;
+using iTextSharp.Org.BouncyCastle.Asn1;
+using iTextSharp.Org.BouncyCastle.Asn1.Cms;
+using iTextSharp.Org.BouncyCastle.Asn1.X509;
+using iTextSharp.Org.BouncyCastle.Crypto;
 
-namespace Org.BouncyCastle.Cms
+namespace iTextSharp.Org.BouncyCastle.Cms
 {
 	/**
 	* Parsing class for an CMS Enveloped Data object from an input stream.

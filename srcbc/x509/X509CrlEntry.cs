@@ -3,15 +3,15 @@ using System.Collections;
 using System.IO;
 using System.Text;
 
-using Org.BouncyCastle.Asn1;
-using Org.BouncyCastle.Asn1.Utilities;
-using Org.BouncyCastle.Asn1.X509;
-using Org.BouncyCastle.Math;
-using Org.BouncyCastle.Security.Certificates;
-using Org.BouncyCastle.Utilities;
-using Org.BouncyCastle.X509.Extension;
+using iTextSharp.Org.BouncyCastle.Asn1;
+using iTextSharp.Org.BouncyCastle.Asn1.Utilities;
+using iTextSharp.Org.BouncyCastle.Asn1.X509;
+using iTextSharp.Org.BouncyCastle.Math;
+using iTextSharp.Org.BouncyCastle.Security.Certificates;
+using iTextSharp.Org.BouncyCastle.Utilities;
+using iTextSharp.Org.BouncyCastle.X509.Extension;
 
-namespace Org.BouncyCastle.X509
+namespace iTextSharp.Org.BouncyCastle.X509
 {
 	/**
 	 * The following extensions are listed in RFC 2459 as relevant to CRL Entries

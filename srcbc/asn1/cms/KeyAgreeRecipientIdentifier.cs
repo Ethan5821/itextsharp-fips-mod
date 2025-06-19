@@ -1,6 +1,6 @@
 using System;
 
-namespace Org.BouncyCastle.Asn1.Cms
+namespace iTextSharp.Org.BouncyCastle.Asn1.Cms
 {
 	public class KeyAgreeRecipientIdentifier
 		: Asn1Encodable

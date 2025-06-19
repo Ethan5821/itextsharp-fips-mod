@@ -1,10 +1,10 @@
 using System;
 using System.Diagnostics;
 
-using Org.BouncyCastle.Crypto;
-using Org.BouncyCastle.Crypto.Parameters;
+using iTextSharp.Org.BouncyCastle.Crypto;
+using iTextSharp.Org.BouncyCastle.Crypto.Parameters;
 
-namespace Org.BouncyCastle.Crypto.Modes
+namespace iTextSharp.Org.BouncyCastle.Crypto.Modes
 {
     /**
     * A Cipher Text Stealing (CTS) mode cipher. CTS allows block ciphers to

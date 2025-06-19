@@ -1,8 +1,8 @@
 using System;
 
-using Org.BouncyCastle.Crypto.Utilities;
+using iTextSharp.Org.BouncyCastle.Crypto.Utilities;
 
-namespace Org.BouncyCastle.Crypto.Engines
+namespace iTextSharp.Org.BouncyCastle.Crypto.Engines
 {
     /**
      * A class that provides CAST6 key encryption operations,

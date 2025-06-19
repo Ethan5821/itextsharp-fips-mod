@@ -1,9 +1,9 @@
 using System;
 
-using Org.BouncyCastle.Crypto.Modes;
-using Org.BouncyCastle.Crypto.Parameters;
+using iTextSharp.Org.BouncyCastle.Crypto.Modes;
+using iTextSharp.Org.BouncyCastle.Crypto.Parameters;
 
-namespace Org.BouncyCastle.Crypto
+namespace iTextSharp.Org.BouncyCastle.Crypto
 {
 	/**
 	* The AEAD block ciphers already handle buffering internally, so this class

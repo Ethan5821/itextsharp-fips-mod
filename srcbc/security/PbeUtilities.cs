@@ -2,22 +2,22 @@
 using System.Collections;
 using System.Globalization;
 
-using Org.BouncyCastle.Asn1;
-using Org.BouncyCastle.Asn1.Nist;
-using Org.BouncyCastle.Asn1.Oiw;
-using Org.BouncyCastle.Asn1.Pkcs;
-using Org.BouncyCastle.Asn1.TeleTrust;
-using Org.BouncyCastle.Asn1.X509;
-using Org.BouncyCastle.Crypto;
-using Org.BouncyCastle.Crypto.Digests;
-using Org.BouncyCastle.Crypto.Engines;
-using Org.BouncyCastle.Crypto.Generators;
-using Org.BouncyCastle.Crypto.Macs;
-using Org.BouncyCastle.Crypto.Modes;
-using Org.BouncyCastle.Crypto.Paddings;
-using Org.BouncyCastle.Crypto.Parameters;
+using iTextSharp.Org.BouncyCastle.Asn1;
+using iTextSharp.Org.BouncyCastle.Asn1.Nist;
+using iTextSharp.Org.BouncyCastle.Asn1.Oiw;
+using iTextSharp.Org.BouncyCastle.Asn1.Pkcs;
+using iTextSharp.Org.BouncyCastle.Asn1.TeleTrust;
+using iTextSharp.Org.BouncyCastle.Asn1.X509;
+using iTextSharp.Org.BouncyCastle.Crypto;
+using iTextSharp.Org.BouncyCastle.Crypto.Digests;
+using iTextSharp.Org.BouncyCastle.Crypto.Engines;
+using iTextSharp.Org.BouncyCastle.Crypto.Generators;
+using iTextSharp.Org.BouncyCastle.Crypto.Macs;
+using iTextSharp.Org.BouncyCastle.Crypto.Modes;
+using iTextSharp.Org.BouncyCastle.Crypto.Paddings;
+using iTextSharp.Org.BouncyCastle.Crypto.Parameters;
 
-namespace Org.BouncyCastle.Security
+namespace iTextSharp.Org.BouncyCastle.Security
 {
 	/// <summary>
 	///

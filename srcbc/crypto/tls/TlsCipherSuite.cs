@@ -1,6 +1,6 @@
 using System;
 
-namespace Org.BouncyCastle.Crypto.Tls
+namespace iTextSharp.Org.BouncyCastle.Crypto.Tls
 {
 	/// <remarks>A generic class for ciphersuites in TLS 1.0.</remarks>
 	public abstract class TlsCipherSuite

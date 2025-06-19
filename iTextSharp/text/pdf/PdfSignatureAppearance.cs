@@ -2,8 +2,8 @@ using System;
 using System.Collections;
 using System.Text;
 using System.IO;
-using Org.BouncyCastle.X509;
-using Org.BouncyCastle.Crypto;
+using iTextSharp.Org.BouncyCastle.X509;
+using iTextSharp.Org.BouncyCastle.Crypto;
 using iTextSharp.text;
 /*
  * $Id: PdfSignatureAppearance.cs,v 1.13 2008/04/17 15:32:39 psoares33 Exp $

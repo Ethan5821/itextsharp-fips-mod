@@ -2,12 +2,12 @@ using System;
 using System.Collections;
 using System.IO;
 
-using Org.BouncyCastle.Asn1;
-using Org.BouncyCastle.Asn1.Ocsp;
-using Org.BouncyCastle.Asn1.X509;
-using Org.BouncyCastle.X509;
+using iTextSharp.Org.BouncyCastle.Asn1;
+using iTextSharp.Org.BouncyCastle.Asn1.Ocsp;
+using iTextSharp.Org.BouncyCastle.Asn1.X509;
+using iTextSharp.Org.BouncyCastle.X509;
 
-namespace Org.BouncyCastle.Ocsp
+namespace iTextSharp.Org.BouncyCastle.Ocsp
 {
 	public class Req
 		: X509ExtensionBase

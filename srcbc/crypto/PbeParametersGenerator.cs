@@ -1,9 +1,9 @@
 using System;
 using System.Text;
 
-using Org.BouncyCastle.Utilities;
+using iTextSharp.Org.BouncyCastle.Utilities;
 
-namespace Org.BouncyCastle.Crypto
+namespace iTextSharp.Org.BouncyCastle.Crypto
 {
 	/**
 	 * super class for all Password Based Encyrption (Pbe) parameter generator classes.

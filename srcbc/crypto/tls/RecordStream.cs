@@ -1,7 +1,7 @@
 using System;
 using System.IO;
 
-namespace Org.BouncyCastle.Crypto.Tls
+namespace iTextSharp.Org.BouncyCastle.Crypto.Tls
 {
 	/// <remarks>An implementation of the TLS 1.0 record layer.</remarks>
 	public class RecordStream

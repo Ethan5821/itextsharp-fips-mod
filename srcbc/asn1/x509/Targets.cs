@@ -1,6 +1,6 @@
 using System;
 
-namespace Org.BouncyCastle.Asn1.X509
+namespace iTextSharp.Org.BouncyCastle.Asn1.X509
 {
 	/**
 	 * Targets structure used in target information extension for attribute

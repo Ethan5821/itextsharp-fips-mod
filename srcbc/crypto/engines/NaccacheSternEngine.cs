@@ -1,11 +1,11 @@
 using System;
 using System.Collections;
 
-using Org.BouncyCastle.Crypto.Parameters;
-using Org.BouncyCastle.Math;
-using Org.BouncyCastle.Utilities;
+using iTextSharp.Org.BouncyCastle.Crypto.Parameters;
+using iTextSharp.Org.BouncyCastle.Math;
+using iTextSharp.Org.BouncyCastle.Utilities;
 
-namespace Org.BouncyCastle.Crypto.Engines
+namespace iTextSharp.Org.BouncyCastle.Crypto.Engines
 {
 	/**
 	* NaccacheStern Engine. For details on this cipher, please see

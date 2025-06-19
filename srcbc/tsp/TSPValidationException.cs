@@ -1,4 +1,4 @@
-namespace Org.BouncyCastle.Tsp
+namespace iTextSharp.Org.BouncyCastle.Tsp
 {
 	/**
 	 * Exception thrown if a TSP request or response fails to validate.

@@ -1,8 +1,8 @@
 using System;
 
-using Org.BouncyCastle.Math;
+using iTextSharp.Org.BouncyCastle.Math;
 
-namespace Org.BouncyCastle.Bcpg
+namespace iTextSharp.Org.BouncyCastle.Bcpg
 {
 	/// <remarks>Base class for a DSA secret key.</remarks>
 	public class DsaSecretBcpgKey

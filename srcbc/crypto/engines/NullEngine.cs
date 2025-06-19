@@ -1,8 +1,8 @@
 using System;
 
-using Org.BouncyCastle.Crypto.Parameters;
+using iTextSharp.Org.BouncyCastle.Crypto.Parameters;
 
-namespace Org.BouncyCastle.Crypto.Engines
+namespace iTextSharp.Org.BouncyCastle.Crypto.Engines
 {
 	/**
 	* The no-op engine that just copies bytes through, irrespective of whether encrypting and decrypting.

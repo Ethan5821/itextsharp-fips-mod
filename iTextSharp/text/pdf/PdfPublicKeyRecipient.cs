@@ -1,5 +1,5 @@
 using System;
-using Org.BouncyCastle.X509;
+using iTextSharp.Org.BouncyCastle.X509;
 
 
 namespace iTextSharp.text.pdf {

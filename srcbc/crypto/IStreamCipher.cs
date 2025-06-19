@@ -1,6 +1,6 @@
 using System;
 
-namespace Org.BouncyCastle.Crypto
+namespace iTextSharp.Org.BouncyCastle.Crypto
 {
 	/// <summary>The interface stream ciphers conform to.</summary>
     public interface IStreamCipher

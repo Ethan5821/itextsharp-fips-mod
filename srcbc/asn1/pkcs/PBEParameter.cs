@@ -1,10 +1,10 @@
 using System;
 using System.Collections;
 
-using Org.BouncyCastle.Asn1;
-using Org.BouncyCastle.Math;
+using iTextSharp.Org.BouncyCastle.Asn1;
+using iTextSharp.Org.BouncyCastle.Math;
 
-namespace Org.BouncyCastle.Asn1.Pkcs
+namespace iTextSharp.Org.BouncyCastle.Asn1.Pkcs
 {
     public class PbeParameter
 		: Asn1Encodable

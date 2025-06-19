@@ -2,11 +2,11 @@ using System;
 using System.Collections;
 using System.Diagnostics;
 
-using Org.BouncyCastle.Asn1.X9;
+using iTextSharp.Org.BouncyCastle.Asn1.X9;
 
-using Org.BouncyCastle.Math.EC.Multiplier;
+using iTextSharp.Org.BouncyCastle.Math.EC.Multiplier;
 
-namespace Org.BouncyCastle.Math.EC
+namespace iTextSharp.Org.BouncyCastle.Math.EC
 {
 	/**
 	 * base class for points on elliptic curves.
@@ -511,7 +511,7 @@ namespace Org.BouncyCastle.Math.EC
 		}
 
 		/* (non-Javadoc)
-		 * @see Org.BouncyCastle.Math.EC.ECPoint#twice()
+		 * @see iTextSharp.Org.BouncyCastle.Math.EC.ECPoint#twice()
 		 */
 		public override ECPoint Twice()
 		{

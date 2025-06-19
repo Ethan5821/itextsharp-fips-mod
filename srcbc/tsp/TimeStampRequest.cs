@@ -2,16 +2,16 @@ using System;
 using System.Collections;
 using System.IO;
 
-using Org.BouncyCastle.Asn1;
-using Org.BouncyCastle.Asn1.Cmp;
-using Org.BouncyCastle.Asn1.Tsp;
-using Org.BouncyCastle.Asn1.X509;
-using Org.BouncyCastle.Crypto;
-using Org.BouncyCastle.Math;
-using Org.BouncyCastle.Security;
-using Org.BouncyCastle.X509;
+using iTextSharp.Org.BouncyCastle.Asn1;
+using iTextSharp.Org.BouncyCastle.Asn1.Cmp;
+using iTextSharp.Org.BouncyCastle.Asn1.Tsp;
+using iTextSharp.Org.BouncyCastle.Asn1.X509;
+using iTextSharp.Org.BouncyCastle.Crypto;
+using iTextSharp.Org.BouncyCastle.Math;
+using iTextSharp.Org.BouncyCastle.Security;
+using iTextSharp.Org.BouncyCastle.X509;
 
-namespace Org.BouncyCastle.Tsp
+namespace iTextSharp.Org.BouncyCastle.Tsp
 {
 	/**
 	 * Base class for an RFC 3161 Time Stamp Request.

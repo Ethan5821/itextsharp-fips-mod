@@ -1,8 +1,8 @@
 using System;
 
-using Org.BouncyCastle.Asn1.X509;
+using iTextSharp.Org.BouncyCastle.Asn1.X509;
 
-namespace Org.BouncyCastle.Asn1.Pkcs
+namespace iTextSharp.Org.BouncyCastle.Asn1.Pkcs
 {
     /**
      * Pkcs10 Certfication request object.

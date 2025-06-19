@@ -1,13 +1,13 @@
 using System;
 using System.IO;
-using Org.BouncyCastle.Asn1;
+using iTextSharp.Org.BouncyCastle.Asn1;
 
-using Org.BouncyCastle.Crypto;
-using Org.BouncyCastle.Security;
-using Org.BouncyCastle.Utilities;
-using Org.BouncyCastle.Utilities.Date;
+using iTextSharp.Org.BouncyCastle.Crypto;
+using iTextSharp.Org.BouncyCastle.Security;
+using iTextSharp.Org.BouncyCastle.Utilities;
+using iTextSharp.Org.BouncyCastle.Utilities.Date;
 
-namespace Org.BouncyCastle.Bcpg.OpenPgp
+namespace iTextSharp.Org.BouncyCastle.Bcpg.OpenPgp
 {
 	/// <remarks>A PGP signature object.</remarks>
     public class PgpSignature

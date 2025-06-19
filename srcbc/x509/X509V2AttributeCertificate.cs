@@ -2,14 +2,14 @@ using System;
 using System.Collections;
 using System.IO;
 
-using Org.BouncyCastle.Asn1;
-using Org.BouncyCastle.Asn1.X509;
-using Org.BouncyCastle.Crypto;
-using Org.BouncyCastle.Math;
-using Org.BouncyCastle.Security;
-using Org.BouncyCastle.Security.Certificates;
+using iTextSharp.Org.BouncyCastle.Asn1;
+using iTextSharp.Org.BouncyCastle.Asn1.X509;
+using iTextSharp.Org.BouncyCastle.Crypto;
+using iTextSharp.Org.BouncyCastle.Math;
+using iTextSharp.Org.BouncyCastle.Security;
+using iTextSharp.Org.BouncyCastle.Security.Certificates;
 
-namespace Org.BouncyCastle.X509
+namespace iTextSharp.Org.BouncyCastle.X509
 {
 	/// <summary>An implementation of a version 2 X.509 Attribute Certificate.</summary>
 	public class X509V2AttributeCertificate

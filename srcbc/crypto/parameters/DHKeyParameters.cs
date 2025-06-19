@@ -1,8 +1,8 @@
 using System;
 
-using Org.BouncyCastle.Utilities;
+using iTextSharp.Org.BouncyCastle.Utilities;
 
-namespace Org.BouncyCastle.Crypto.Parameters
+namespace iTextSharp.Org.BouncyCastle.Crypto.Parameters
 {
     public class DHKeyParameters
 		: AsymmetricKeyParameter

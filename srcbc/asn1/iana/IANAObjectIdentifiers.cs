@@ -1,4 +1,4 @@
-namespace Org.BouncyCastle.Asn1.Iana
+namespace iTextSharp.Org.BouncyCastle.Asn1.Iana
 {
 	public abstract class IanaObjectIdentifiers
 	{

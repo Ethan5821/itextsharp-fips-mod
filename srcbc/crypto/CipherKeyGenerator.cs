@@ -1,8 +1,8 @@
 using System;
 
-using Org.BouncyCastle.Security;
+using iTextSharp.Org.BouncyCastle.Security;
 
-namespace Org.BouncyCastle.Crypto
+namespace iTextSharp.Org.BouncyCastle.Crypto
 {
 	/**
 	 * The base class for symmetric, or secret, cipher key generators.

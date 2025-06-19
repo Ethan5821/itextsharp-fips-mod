@@ -1,6 +1,6 @@
 using System;
 
-namespace Org.BouncyCastle.Asn1
+namespace iTextSharp.Org.BouncyCastle.Asn1
 {
     public class DerBoolean
         : Asn1Object

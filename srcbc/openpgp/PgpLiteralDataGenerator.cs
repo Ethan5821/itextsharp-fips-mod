@@ -2,10 +2,10 @@ using System;
 using System.IO;
 using System.Text;
 
-using Org.BouncyCastle.Utilities;
-using Org.BouncyCastle.Utilities.Date;
+using iTextSharp.Org.BouncyCastle.Utilities;
+using iTextSharp.Org.BouncyCastle.Utilities.Date;
 
-namespace Org.BouncyCastle.Bcpg.OpenPgp
+namespace iTextSharp.Org.BouncyCastle.Bcpg.OpenPgp
 {
 	/// <remarks>Class for producing literal data packets.</remarks>
     public class PgpLiteralDataGenerator

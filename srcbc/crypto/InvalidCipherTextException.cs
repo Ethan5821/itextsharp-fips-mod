@@ -1,6 +1,6 @@
 using System;
 
-namespace Org.BouncyCastle.Crypto
+namespace iTextSharp.Org.BouncyCastle.Crypto
 {
     /**
      * this exception is thrown whenever we find something we don't expect in a

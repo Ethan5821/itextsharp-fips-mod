@@ -1,9 +1,9 @@
 using System;
 
-using Org.BouncyCastle.Crypto.Modes;
-using Org.BouncyCastle.Crypto.Paddings;
+using iTextSharp.Org.BouncyCastle.Crypto.Modes;
+using iTextSharp.Org.BouncyCastle.Crypto.Paddings;
 
-namespace Org.BouncyCastle.Crypto.Macs
+namespace iTextSharp.Org.BouncyCastle.Crypto.Macs
 {
 	/**
 	* CMAC - as specified at www.nuee.nagoya-u.ac.jp/labs/tiwata/omac/omac.html

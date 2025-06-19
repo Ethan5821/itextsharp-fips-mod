@@ -1,8 +1,8 @@
 using System;
 
-using Org.BouncyCastle.Asn1.X500;
+using iTextSharp.Org.BouncyCastle.Asn1.X500;
 
-namespace Org.BouncyCastle.Asn1.IsisMtt.X509
+namespace iTextSharp.Org.BouncyCastle.Asn1.IsisMtt.X509
 {
 	/**
 	* Some other restriction regarding the usage of this certificate.

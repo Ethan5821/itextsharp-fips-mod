@@ -1,7 +1,7 @@
 using System;
 using System.Collections;
 
-namespace Org.BouncyCastle.Asn1.X509
+namespace iTextSharp.Org.BouncyCastle.Asn1.X509
 {
 	/// <remarks>Generator for X.509 extensions</remarks>
 	public class X509ExtensionsGenerator

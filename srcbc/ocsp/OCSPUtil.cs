@@ -2,16 +2,16 @@ using System;
 using System.Collections;
 using System.Globalization;
 
-using Org.BouncyCastle.Asn1;
-using Org.BouncyCastle.Asn1.CryptoPro;
-using Org.BouncyCastle.Asn1.Nist;
-using Org.BouncyCastle.Asn1.Pkcs;
-using Org.BouncyCastle.Asn1.TeleTrust;
-using Org.BouncyCastle.Asn1.X509;
-using Org.BouncyCastle.Asn1.X9;
-using Org.BouncyCastle.Utilities.Collections;
+using iTextSharp.Org.BouncyCastle.Asn1;
+using iTextSharp.Org.BouncyCastle.Asn1.CryptoPro;
+using iTextSharp.Org.BouncyCastle.Asn1.Nist;
+using iTextSharp.Org.BouncyCastle.Asn1.Pkcs;
+using iTextSharp.Org.BouncyCastle.Asn1.TeleTrust;
+using iTextSharp.Org.BouncyCastle.Asn1.X509;
+using iTextSharp.Org.BouncyCastle.Asn1.X9;
+using iTextSharp.Org.BouncyCastle.Utilities.Collections;
 
-namespace Org.BouncyCastle.Ocsp
+namespace iTextSharp.Org.BouncyCastle.Ocsp
 {
 	class OcspUtilities
 	{

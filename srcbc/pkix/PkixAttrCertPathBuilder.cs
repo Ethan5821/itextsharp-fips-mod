@@ -1,13 +1,13 @@
 using System;
 using System.Collections;
 
-using Org.BouncyCastle.Asn1.X509;
-using Org.BouncyCastle.Security.Certificates;
-using Org.BouncyCastle.Utilities.Collections;
-using Org.BouncyCastle.X509;
-using Org.BouncyCastle.X509.Store;
+using iTextSharp.Org.BouncyCastle.Asn1.X509;
+using iTextSharp.Org.BouncyCastle.Security.Certificates;
+using iTextSharp.Org.BouncyCastle.Utilities.Collections;
+using iTextSharp.Org.BouncyCastle.X509;
+using iTextSharp.Org.BouncyCastle.X509.Store;
 
-namespace Org.BouncyCastle.Pkix
+namespace iTextSharp.Org.BouncyCastle.Pkix
 {
 	public class PkixAttrCertPathBuilder
 	{

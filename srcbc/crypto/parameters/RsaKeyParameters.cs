@@ -1,9 +1,9 @@
 using System;
 
-using Org.BouncyCastle.Crypto;
-using Org.BouncyCastle.Math;
+using iTextSharp.Org.BouncyCastle.Crypto;
+using iTextSharp.Org.BouncyCastle.Math;
 
-namespace Org.BouncyCastle.Crypto.Parameters
+namespace iTextSharp.Org.BouncyCastle.Crypto.Parameters
 {
 	public class RsaKeyParameters
 		: AsymmetricKeyParameter

@@ -1,6 +1,6 @@
 using System;
 
-namespace Org.BouncyCastle.Math.EC.Multiplier
+namespace iTextSharp.Org.BouncyCastle.Math.EC.Multiplier
 {
 	/**
 	* Class implementing the WNAF (Window Non-Adjacent Form) multiplication

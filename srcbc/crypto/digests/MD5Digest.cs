@@ -1,6 +1,6 @@
 using System;
 
-namespace Org.BouncyCastle.Crypto.Digests
+namespace iTextSharp.Org.BouncyCastle.Crypto.Digests
 {
     /**
     * implementation of MD5 as outlined in "Handbook of Applied Cryptography", pages 346 - 347.

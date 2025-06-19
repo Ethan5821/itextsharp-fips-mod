@@ -1,7 +1,7 @@
 using System.Collections;
 using System.IO;
 
-namespace Org.BouncyCastle.Bcpg.OpenPgp
+namespace iTextSharp.Org.BouncyCastle.Bcpg.OpenPgp
 {
 	public abstract class PgpKeyRing
 		: PgpObject

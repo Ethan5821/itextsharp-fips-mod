@@ -1,9 +1,9 @@
 using System;
 
-using Org.BouncyCastle.Math;
-using Org.BouncyCastle.Security;
+using iTextSharp.Org.BouncyCastle.Math;
+using iTextSharp.Org.BouncyCastle.Security;
 
-namespace Org.BouncyCastle.Crypto.Agreement.Srp
+namespace iTextSharp.Org.BouncyCastle.Crypto.Agreement.Srp
 {
 	/**
 	 * Implements the server side SRP-6a protocol. Note that this class is stateful, and therefore NOT threadsafe.

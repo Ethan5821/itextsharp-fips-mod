@@ -60,7 +60,7 @@ using System.IO;
  * great code.
  */
 
-namespace Org.BouncyCastle.Apache.Bzip2
+namespace iTextSharp.Org.BouncyCastle.Apache.Bzip2
 {
 	/**
     * An output stream that compresses into the BZip2 format (with the file

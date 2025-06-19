@@ -1,11 +1,11 @@
 using System;
 using System.IO;
 
-using Org.BouncyCastle.Crypto.Engines;
-using Org.BouncyCastle.Crypto.Parameters;
-using Org.BouncyCastle.Utilities;
+using iTextSharp.Org.BouncyCastle.Crypto.Engines;
+using iTextSharp.Org.BouncyCastle.Crypto.Parameters;
+using iTextSharp.Org.BouncyCastle.Utilities;
 
-namespace Org.BouncyCastle.Crypto
+namespace iTextSharp.Org.BouncyCastle.Crypto
 {
 	public class BufferedIesCipher
 		: BufferedCipherBase

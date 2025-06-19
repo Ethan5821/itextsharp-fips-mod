@@ -1,6 +1,6 @@
-using Org.BouncyCastle.Bcpg.Attr;
+using iTextSharp.Org.BouncyCastle.Bcpg.Attr;
 
-namespace Org.BouncyCastle.Bcpg.OpenPgp
+namespace iTextSharp.Org.BouncyCastle.Bcpg.OpenPgp
 {
 	/// <remarks>Container for a list of user attribute subpackets.</remarks>
     public class PgpUserAttributeSubpacketVector

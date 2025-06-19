@@ -1,8 +1,8 @@
 using System.Collections;
 
-using Org.BouncyCastle.Crypto;
+using iTextSharp.Org.BouncyCastle.Crypto;
 
-namespace Org.BouncyCastle.Pkcs
+namespace iTextSharp.Org.BouncyCastle.Pkcs
 {
     public class AsymmetricKeyEntry
         : Pkcs12Entry

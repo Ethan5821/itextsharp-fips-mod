@@ -1,7 +1,7 @@
-using Org.BouncyCastle.Asn1;
-using Org.BouncyCastle.Asn1.Pkcs;
+using iTextSharp.Org.BouncyCastle.Asn1;
+using iTextSharp.Org.BouncyCastle.Asn1.Pkcs;
 
-namespace Org.BouncyCastle.Asn1.Smime
+namespace iTextSharp.Org.BouncyCastle.Asn1.Smime
 {
     public abstract class SmimeAttributes
     {

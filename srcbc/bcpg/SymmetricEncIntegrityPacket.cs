@@ -1,7 +1,7 @@
 using System;
 using System.IO;
 
-namespace Org.BouncyCastle.Bcpg
+namespace iTextSharp.Org.BouncyCastle.Bcpg
 {
 	public class SymmetricEncIntegrityPacket
 		: InputStreamPacket

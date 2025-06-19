@@ -1,6 +1,6 @@
 using System;
 
-namespace Org.BouncyCastle.OpenSsl
+namespace iTextSharp.Org.BouncyCastle.OpenSsl
 {
 	public interface IPasswordFinder
 	{

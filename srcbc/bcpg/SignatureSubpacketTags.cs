@@ -1,4 +1,4 @@
-namespace Org.BouncyCastle.Bcpg
+namespace iTextSharp.Org.BouncyCastle.Bcpg
 {
     /**
     * Basic PGP signature sub-packet tag types.

@@ -1,8 +1,8 @@
 using System;
 
-using Org.BouncyCastle.Math;
+using iTextSharp.Org.BouncyCastle.Math;
 
-namespace Org.BouncyCastle.Crypto.Agreement.Srp
+namespace iTextSharp.Org.BouncyCastle.Crypto.Agreement.Srp
 {
 	/**
 	 * Generates new SRP verifier for user

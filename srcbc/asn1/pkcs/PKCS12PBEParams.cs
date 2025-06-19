@@ -1,9 +1,9 @@
 using System;
 
-using Org.BouncyCastle.Asn1;
-using Org.BouncyCastle.Math;
+using iTextSharp.Org.BouncyCastle.Asn1;
+using iTextSharp.Org.BouncyCastle.Math;
 
-namespace Org.BouncyCastle.Asn1.Pkcs
+namespace iTextSharp.Org.BouncyCastle.Asn1.Pkcs
 {
     public class Pkcs12PbeParams
         : Asn1Encodable

@@ -1,12 +1,12 @@
 using System.Collections;
 
-using Org.BouncyCastle.Asn1.CryptoPro;
-using Org.BouncyCastle.Asn1.Nist;
-using Org.BouncyCastle.Asn1.Oiw;
-using Org.BouncyCastle.Asn1.Pkcs;
-using Org.BouncyCastle.Asn1.TeleTrust;
+using iTextSharp.Org.BouncyCastle.Asn1.CryptoPro;
+using iTextSharp.Org.BouncyCastle.Asn1.Nist;
+using iTextSharp.Org.BouncyCastle.Asn1.Oiw;
+using iTextSharp.Org.BouncyCastle.Asn1.Pkcs;
+using iTextSharp.Org.BouncyCastle.Asn1.TeleTrust;
 
-namespace Org.BouncyCastle.Tsp
+namespace iTextSharp.Org.BouncyCastle.Tsp
 {
 	/**
 	 * Recognised hash algorithms for the time stamp protocol.

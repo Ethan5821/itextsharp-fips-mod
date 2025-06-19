@@ -1,8 +1,8 @@
 using System;
 
-using Org.BouncyCastle.Math;
+using iTextSharp.Org.BouncyCastle.Math;
 
-namespace Org.BouncyCastle.Asn1.IsisMtt.X509
+namespace iTextSharp.Org.BouncyCastle.Asn1.IsisMtt.X509
 {
 	/**
 	* Monetary limit for transactions. The QcEuMonetaryLimit QC statement MUST be

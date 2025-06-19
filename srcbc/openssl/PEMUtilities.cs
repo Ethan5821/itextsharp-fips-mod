@@ -1,11 +1,11 @@
 using System;
 
-using Org.BouncyCastle.Crypto;
-using Org.BouncyCastle.Crypto.Generators;
-using Org.BouncyCastle.Crypto.Parameters;
-using Org.BouncyCastle.Security;
+using iTextSharp.Org.BouncyCastle.Crypto;
+using iTextSharp.Org.BouncyCastle.Crypto.Generators;
+using iTextSharp.Org.BouncyCastle.Crypto.Parameters;
+using iTextSharp.Org.BouncyCastle.Security;
 
-namespace Org.BouncyCastle.OpenSsl
+namespace iTextSharp.Org.BouncyCastle.OpenSsl
 {
 	internal sealed class PemUtilities
 	{

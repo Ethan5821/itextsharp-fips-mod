@@ -1,10 +1,10 @@
 using System;
 using System.Collections;
 
-using Org.BouncyCastle.Asn1;
-using Org.BouncyCastle.Utilities.Collections;
+using iTextSharp.Org.BouncyCastle.Asn1;
+using iTextSharp.Org.BouncyCastle.Utilities.Collections;
 
-namespace Org.BouncyCastle.Pkcs
+namespace iTextSharp.Org.BouncyCastle.Pkcs
 {
     public abstract class Pkcs12Entry
     {

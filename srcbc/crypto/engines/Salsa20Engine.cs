@@ -1,9 +1,9 @@
 using System;
 using System.Text;
 
-using Org.BouncyCastle.Crypto.Parameters;
+using iTextSharp.Org.BouncyCastle.Crypto.Parameters;
 
-namespace Org.BouncyCastle.Crypto.Engines
+namespace iTextSharp.Org.BouncyCastle.Crypto.Engines
 {
 	/**
 	* Implementation of Daniel J. Bernstein's Salsa20 stream cipher, Snuffle 2005

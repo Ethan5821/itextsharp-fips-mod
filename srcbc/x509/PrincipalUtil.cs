@@ -1,11 +1,11 @@
 using System;
 using System.IO;
 
-using Org.BouncyCastle.Asn1;
-using Org.BouncyCastle.Asn1.X509;
-using Org.BouncyCastle.Security.Certificates;
+using iTextSharp.Org.BouncyCastle.Asn1;
+using iTextSharp.Org.BouncyCastle.Asn1.X509;
+using iTextSharp.Org.BouncyCastle.Security.Certificates;
 
-namespace Org.BouncyCastle.X509
+namespace iTextSharp.Org.BouncyCastle.X509
 {
 	/// <remarks>
 	/// A utility class that will extract X509Principal objects from X.509 certificates.

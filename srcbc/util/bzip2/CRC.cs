@@ -60,7 +60,7 @@ using System;
  * great code.
  */
 
-namespace Org.BouncyCastle.Apache.Bzip2
+namespace iTextSharp.Org.BouncyCastle.Apache.Bzip2
 {
 	/**
     * A simple class the hold and calculate the CRC for sanity checking

@@ -1,14 +1,14 @@
 using System;
 
-using Org.BouncyCastle.Asn1;
-using Org.BouncyCastle.Asn1.Ocsp;
-using Org.BouncyCastle.Asn1.X509;
-using Org.BouncyCastle.Crypto;
-using Org.BouncyCastle.Math;
-using Org.BouncyCastle.Security;
-using Org.BouncyCastle.X509;
+using iTextSharp.Org.BouncyCastle.Asn1;
+using iTextSharp.Org.BouncyCastle.Asn1.Ocsp;
+using iTextSharp.Org.BouncyCastle.Asn1.X509;
+using iTextSharp.Org.BouncyCastle.Crypto;
+using iTextSharp.Org.BouncyCastle.Math;
+using iTextSharp.Org.BouncyCastle.Security;
+using iTextSharp.Org.BouncyCastle.X509;
 
-namespace Org.BouncyCastle.Ocsp
+namespace iTextSharp.Org.BouncyCastle.Ocsp
 {
 	public class CertificateID
 	{

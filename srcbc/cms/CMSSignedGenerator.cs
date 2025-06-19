@@ -1,22 +1,22 @@
 using System;
 using System.Collections;
 
-using Org.BouncyCastle.Asn1;
-using Org.BouncyCastle.Asn1.CryptoPro;
-using Org.BouncyCastle.Asn1.Nist;
-using Org.BouncyCastle.Asn1.Oiw;
-using Org.BouncyCastle.Asn1.Pkcs;
-using Org.BouncyCastle.Asn1.TeleTrust;
-using Org.BouncyCastle.Asn1.X509;
-using Org.BouncyCastle.Asn1.X9;
-using Org.BouncyCastle.Crypto;
-using Org.BouncyCastle.Crypto.Parameters;
-using Org.BouncyCastle.Security;
-using Org.BouncyCastle.Utilities.Collections;
-using Org.BouncyCastle.X509;
-using Org.BouncyCastle.X509.Store;
+using iTextSharp.Org.BouncyCastle.Asn1;
+using iTextSharp.Org.BouncyCastle.Asn1.CryptoPro;
+using iTextSharp.Org.BouncyCastle.Asn1.Nist;
+using iTextSharp.Org.BouncyCastle.Asn1.Oiw;
+using iTextSharp.Org.BouncyCastle.Asn1.Pkcs;
+using iTextSharp.Org.BouncyCastle.Asn1.TeleTrust;
+using iTextSharp.Org.BouncyCastle.Asn1.X509;
+using iTextSharp.Org.BouncyCastle.Asn1.X9;
+using iTextSharp.Org.BouncyCastle.Crypto;
+using iTextSharp.Org.BouncyCastle.Crypto.Parameters;
+using iTextSharp.Org.BouncyCastle.Security;
+using iTextSharp.Org.BouncyCastle.Utilities.Collections;
+using iTextSharp.Org.BouncyCastle.X509;
+using iTextSharp.Org.BouncyCastle.X509.Store;
 
-namespace Org.BouncyCastle.Cms
+namespace iTextSharp.Org.BouncyCastle.Cms
 {
     public class CmsSignedGenerator
     {

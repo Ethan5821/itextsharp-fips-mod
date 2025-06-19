@@ -1,7 +1,7 @@
 using System;
 using System.Text;
 
-namespace Org.BouncyCastle.Asn1
+namespace iTextSharp.Org.BouncyCastle.Asn1
 {
     public class DerGeneralString
         : DerStringBase

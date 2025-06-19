@@ -1,4 +1,4 @@
-namespace Org.BouncyCastle.Math.EC.Multiplier
+namespace iTextSharp.Org.BouncyCastle.Math.EC.Multiplier
 {
 	internal class ReferenceMultiplier
 		: ECMultiplier

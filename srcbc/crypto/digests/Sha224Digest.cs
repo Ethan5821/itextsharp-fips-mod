@@ -1,6 +1,6 @@
 using System;
 
-namespace Org.BouncyCastle.Crypto.Digests
+namespace iTextSharp.Org.BouncyCastle.Crypto.Digests
 {
     /**
      * SHA-224 as described in RFC 3874

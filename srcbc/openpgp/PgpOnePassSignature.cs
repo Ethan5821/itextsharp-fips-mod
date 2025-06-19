@@ -1,10 +1,10 @@
 using System;
 using System.IO;
 
-using Org.BouncyCastle.Crypto;
-using Org.BouncyCastle.Security;
+using iTextSharp.Org.BouncyCastle.Crypto;
+using iTextSharp.Org.BouncyCastle.Security;
 
-namespace Org.BouncyCastle.Bcpg.OpenPgp
+namespace iTextSharp.Org.BouncyCastle.Bcpg.OpenPgp
 {
 	/// <remarks>A one pass signature object.</remarks>
     public class PgpOnePassSignature

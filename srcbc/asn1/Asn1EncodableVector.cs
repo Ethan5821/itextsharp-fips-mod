@@ -1,7 +1,7 @@
 using System;
 using System.Collections;
 
-namespace Org.BouncyCastle.Asn1
+namespace iTextSharp.Org.BouncyCastle.Asn1
 {
     public class Asn1EncodableVector
 		: IEnumerable

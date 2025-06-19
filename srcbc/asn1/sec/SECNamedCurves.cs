@@ -2,14 +2,14 @@ using System;
 using System.Collections;
 using System.Globalization;
 
-using Org.BouncyCastle.Asn1;
-using Org.BouncyCastle.Asn1.X9;
-using Org.BouncyCastle.Math;
-using Org.BouncyCastle.Math.EC;
-using Org.BouncyCastle.Utilities.Collections;
-using Org.BouncyCastle.Utilities.Encoders;
+using iTextSharp.Org.BouncyCastle.Asn1;
+using iTextSharp.Org.BouncyCastle.Asn1.X9;
+using iTextSharp.Org.BouncyCastle.Math;
+using iTextSharp.Org.BouncyCastle.Math.EC;
+using iTextSharp.Org.BouncyCastle.Utilities.Collections;
+using iTextSharp.Org.BouncyCastle.Utilities.Encoders;
 
-namespace Org.BouncyCastle.Asn1.Sec
+namespace iTextSharp.Org.BouncyCastle.Asn1.Sec
 {
 	public sealed class SecNamedCurves
 	{

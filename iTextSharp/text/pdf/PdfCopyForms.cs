@@ -2,7 +2,7 @@ using System;
 using System.Collections;
 using System.IO;
 using iTextSharp.text.pdf.interfaces;
-using Org.BouncyCastle.X509;
+using iTextSharp.Org.BouncyCastle.X509;
 /*
  * $Id: PdfCopyForms.java 3665 2009-01-26 22:32:15Z xlv $
  *

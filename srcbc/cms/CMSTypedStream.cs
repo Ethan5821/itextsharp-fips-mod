@@ -1,10 +1,10 @@
 using System;
 using System.IO;
 
-using Org.BouncyCastle.Asn1.Pkcs;
-using Org.BouncyCastle.Utilities.IO;
+using iTextSharp.Org.BouncyCastle.Asn1.Pkcs;
+using iTextSharp.Org.BouncyCastle.Utilities.IO;
 
-namespace Org.BouncyCastle.Cms
+namespace iTextSharp.Org.BouncyCastle.Cms
 {
 	public class CmsTypedStream
 	{

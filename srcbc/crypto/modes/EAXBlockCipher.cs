@@ -1,10 +1,10 @@
 using System;
 
-using Org.BouncyCastle.Crypto.Macs;
-using Org.BouncyCastle.Crypto.Parameters;
-using Org.BouncyCastle.Utilities;
+using iTextSharp.Org.BouncyCastle.Crypto.Macs;
+using iTextSharp.Org.BouncyCastle.Crypto.Parameters;
+using iTextSharp.Org.BouncyCastle.Utilities;
 
-namespace Org.BouncyCastle.Crypto.Modes
+namespace iTextSharp.Org.BouncyCastle.Crypto.Modes
 {
 	/**
 	* A Two-Pass Authenticated-Encryption Scheme Optimized for Simplicity and 

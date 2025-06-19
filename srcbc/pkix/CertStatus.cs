@@ -1,8 +1,8 @@
 using System;
 
-using Org.BouncyCastle.Utilities.Date;
+using iTextSharp.Org.BouncyCastle.Utilities.Date;
 
-namespace Org.BouncyCastle.Pkix
+namespace iTextSharp.Org.BouncyCastle.Pkix
 {
     public class CertStatus
     {

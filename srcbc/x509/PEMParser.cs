@@ -2,10 +2,10 @@ using System;
 using System.IO;
 using System.Text;
 
-using Org.BouncyCastle.Asn1;
-using Org.BouncyCastle.Utilities.Encoders;
+using iTextSharp.Org.BouncyCastle.Asn1;
+using iTextSharp.Org.BouncyCastle.Utilities.Encoders;
 
-namespace Org.BouncyCastle.X509
+namespace iTextSharp.Org.BouncyCastle.X509
 {
 	class PemParser
 	{

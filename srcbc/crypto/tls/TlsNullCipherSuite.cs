@@ -1,6 +1,6 @@
 using System;
 
-namespace Org.BouncyCastle.Crypto.Tls
+namespace iTextSharp.Org.BouncyCastle.Crypto.Tls
 {
 	/// <remarks>A NULL CipherSuite in java, this should only be used during handshake.</remarks>
 	public class TlsNullCipherSuite

@@ -1,8 +1,8 @@
 using System;
 
-using Org.BouncyCastle.Crypto.Parameters;
+using iTextSharp.Org.BouncyCastle.Crypto.Parameters;
 
-namespace Org.BouncyCastle.Crypto.Generators
+namespace iTextSharp.Org.BouncyCastle.Crypto.Generators
 {
     public class DesKeyGenerator
 		: CipherKeyGenerator

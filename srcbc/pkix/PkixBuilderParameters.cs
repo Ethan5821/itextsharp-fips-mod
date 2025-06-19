@@ -1,12 +1,12 @@
 using System;
 using System.Text;
 
-using Org.BouncyCastle.Security;
-using Org.BouncyCastle.X509.Store;
-using Org.BouncyCastle.Utilities;
-using Org.BouncyCastle.Utilities.Collections;
+using iTextSharp.Org.BouncyCastle.Security;
+using iTextSharp.Org.BouncyCastle.X509.Store;
+using iTextSharp.Org.BouncyCastle.Utilities;
+using iTextSharp.Org.BouncyCastle.Utilities.Collections;
 
-namespace Org.BouncyCastle.Pkix
+namespace iTextSharp.Org.BouncyCastle.Pkix
 {
 	/// <summary>
     /// Summary description for PkixBuilderParameters.

@@ -3,10 +3,10 @@ using System.Collections;
 using System.IO;
 using System.Text;
 
-using Org.BouncyCastle.Utilities;
-using Org.BouncyCastle.Utilities.Encoders;
+using iTextSharp.Org.BouncyCastle.Utilities;
+using iTextSharp.Org.BouncyCastle.Utilities.Encoders;
 
-namespace Org.BouncyCastle.Asn1.Utilities
+namespace iTextSharp.Org.BouncyCastle.Asn1.Utilities
 {
     public sealed class Asn1Dump
     {

@@ -1,9 +1,9 @@
 using System;
 
-using Org.BouncyCastle.Math;
-using Org.BouncyCastle.Security;
+using iTextSharp.Org.BouncyCastle.Math;
+using iTextSharp.Org.BouncyCastle.Security;
 
-namespace Org.BouncyCastle.Utilities
+namespace iTextSharp.Org.BouncyCastle.Utilities
 {
 	/**
 	 * BigInteger utilities.

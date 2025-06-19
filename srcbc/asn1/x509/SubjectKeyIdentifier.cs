@@ -1,9 +1,9 @@
 using System;
 
-using Org.BouncyCastle.Crypto;
-using Org.BouncyCastle.Crypto.Digests;
+using iTextSharp.Org.BouncyCastle.Crypto;
+using iTextSharp.Org.BouncyCastle.Crypto.Digests;
 
-namespace Org.BouncyCastle.Asn1.X509
+namespace iTextSharp.Org.BouncyCastle.Asn1.X509
 {
     /**
      * The SubjectKeyIdentifier object.

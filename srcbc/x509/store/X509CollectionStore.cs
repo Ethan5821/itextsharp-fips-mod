@@ -1,7 +1,7 @@
 using System;
 using System.Collections;
 
-namespace Org.BouncyCastle.X509.Store
+namespace iTextSharp.Org.BouncyCastle.X509.Store
 {
 	/**
 	 * A simple collection backed store.

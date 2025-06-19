@@ -1,7 +1,7 @@
 using System;
 using System.Collections;
 
-namespace Org.BouncyCastle.Cms
+namespace iTextSharp.Org.BouncyCastle.Cms
 {
 	public class RecipientInformationStore
 	{

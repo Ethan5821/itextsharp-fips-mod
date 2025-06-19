@@ -1,6 +1,6 @@
 using System;
 
-namespace Org.BouncyCastle.Crypto.Digests
+namespace iTextSharp.Org.BouncyCastle.Crypto.Digests
 {
     /**
      * Draft FIPS 180-2 implementation of SHA-384. <b>Note:</b> As this is

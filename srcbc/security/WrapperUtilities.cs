@@ -2,15 +2,15 @@ using System;
 using System.Collections;
 using System.Globalization;
 
-using Org.BouncyCastle.Asn1;
-using Org.BouncyCastle.Asn1.Kisa;
-using Org.BouncyCastle.Asn1.Nist;
-using Org.BouncyCastle.Asn1.Ntt;
-using Org.BouncyCastle.Asn1.Pkcs;
-using Org.BouncyCastle.Crypto;
-using Org.BouncyCastle.Crypto.Engines;
+using iTextSharp.Org.BouncyCastle.Asn1;
+using iTextSharp.Org.BouncyCastle.Asn1.Kisa;
+using iTextSharp.Org.BouncyCastle.Asn1.Nist;
+using iTextSharp.Org.BouncyCastle.Asn1.Ntt;
+using iTextSharp.Org.BouncyCastle.Asn1.Pkcs;
+using iTextSharp.Org.BouncyCastle.Crypto;
+using iTextSharp.Org.BouncyCastle.Crypto.Engines;
 
-namespace Org.BouncyCastle.Security
+namespace iTextSharp.Org.BouncyCastle.Security
 {
 	/// <remarks>
 	///  Utility class for creating IWrapper objects from their names/Oids

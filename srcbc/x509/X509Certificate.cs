@@ -3,19 +3,19 @@ using System.Collections;
 using System.IO;
 using System.Text;
 
-using Org.BouncyCastle.Asn1;
-using Org.BouncyCastle.Asn1.Misc;
-using Org.BouncyCastle.Asn1.Utilities;
-using Org.BouncyCastle.Asn1.X509;
-using Org.BouncyCastle.Crypto;
-using Org.BouncyCastle.Math;
-using Org.BouncyCastle.Security;
-using Org.BouncyCastle.Security.Certificates;
-using Org.BouncyCastle.Utilities;
-using Org.BouncyCastle.Utilities.Encoders;
-using Org.BouncyCastle.X509.Extension;
+using iTextSharp.Org.BouncyCastle.Asn1;
+using iTextSharp.Org.BouncyCastle.Asn1.Misc;
+using iTextSharp.Org.BouncyCastle.Asn1.Utilities;
+using iTextSharp.Org.BouncyCastle.Asn1.X509;
+using iTextSharp.Org.BouncyCastle.Crypto;
+using iTextSharp.Org.BouncyCastle.Math;
+using iTextSharp.Org.BouncyCastle.Security;
+using iTextSharp.Org.BouncyCastle.Security.Certificates;
+using iTextSharp.Org.BouncyCastle.Utilities;
+using iTextSharp.Org.BouncyCastle.Utilities.Encoders;
+using iTextSharp.Org.BouncyCastle.X509.Extension;
 
-namespace Org.BouncyCastle.X509
+namespace iTextSharp.Org.BouncyCastle.X509
 {
     /// <summary>
     /// An Object representing an X509 Certificate.
@@ -168,7 +168,7 @@ namespace Org.BouncyCastle.X509
         }
 
 		/// <summary>
-        /// Return a <see cref="Org.BouncyCastle.Math.BigInteger">BigInteger</see> containing the serial number.
+        /// Return a <see cref="iTextSharp.Org.BouncyCastle.Math.BigInteger">BigInteger</see> containing the serial number.
         /// </summary>
         /// <returns>The Serial number.</returns>
         public virtual BigInteger SerialNumber

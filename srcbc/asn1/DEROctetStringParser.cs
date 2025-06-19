@@ -1,9 +1,9 @@
 using System;
 using System.IO;
 
-using Org.BouncyCastle.Utilities.IO;
+using iTextSharp.Org.BouncyCastle.Utilities.IO;
 
-namespace Org.BouncyCastle.Asn1
+namespace iTextSharp.Org.BouncyCastle.Asn1
 {
 	public class DerOctetStringParser
 		: Asn1OctetStringParser

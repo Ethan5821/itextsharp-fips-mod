@@ -1,11 +1,11 @@
 using System;
 
-using Org.BouncyCastle.Crypto.Parameters;
-using Org.BouncyCastle.Crypto.Digests;
-using Org.BouncyCastle.Security;
-using Org.BouncyCastle.Utilities;
+using iTextSharp.Org.BouncyCastle.Crypto.Parameters;
+using iTextSharp.Org.BouncyCastle.Crypto.Digests;
+using iTextSharp.Org.BouncyCastle.Security;
+using iTextSharp.Org.BouncyCastle.Utilities;
 
-namespace Org.BouncyCastle.Crypto.Encodings
+namespace iTextSharp.Org.BouncyCastle.Crypto.Encodings
 {
 	/**
 	* this does your basic Pkcs 1 v1.5 padding - whether or not you should be using this
@@ -16,9 +16,9 @@ namespace Org.BouncyCastle.Crypto.Encodings
 	{
 		/**
 		 * some providers fail to include the leading zero in PKCS1 encoded blocks. If you need to
-		 * work with one of these set the system property Org.BouncyCastle.Pkcs1.Strict to false.
+		 * work with one of these set the system property iTextSharp.Org.BouncyCastle.Pkcs1.Strict to false.
 		 */
-		public const string StrictLengthEnabledProperty = "Org.BouncyCastle.Pkcs1.Strict";
+		public const string StrictLengthEnabledProperty = "iTextSharp.Org.BouncyCastle.Pkcs1.Strict";
 
 		private const int HeaderLength = 10;
 

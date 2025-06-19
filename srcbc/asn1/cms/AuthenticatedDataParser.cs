@@ -1,8 +1,8 @@
 using System;
 
-using Org.BouncyCastle.Asn1.X509;
+using iTextSharp.Org.BouncyCastle.Asn1.X509;
 
-namespace Org.BouncyCastle.Asn1.Cms
+namespace iTextSharp.Org.BouncyCastle.Asn1.Cms
 {
 	/**
 	 * Produce an object suitable for an ASN1OutputStream.

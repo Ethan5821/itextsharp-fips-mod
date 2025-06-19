@@ -1,7 +1,7 @@
 using System;
 using System.Text;
 
-namespace Org.BouncyCastle.Math.EC
+namespace iTextSharp.Org.BouncyCastle.Math.EC
 {
 	internal class IntArray
 		: ICloneable

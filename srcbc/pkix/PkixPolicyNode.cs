@@ -2,10 +2,10 @@ using System;
 using System.Collections;
 using System.Text;
 
-using Org.BouncyCastle.Utilities;
-using Org.BouncyCastle.Utilities.Collections;
+using iTextSharp.Org.BouncyCastle.Utilities;
+using iTextSharp.Org.BouncyCastle.Utilities.Collections;
 
-namespace Org.BouncyCastle.Pkix
+namespace iTextSharp.Org.BouncyCastle.Pkix
 {
 	/// <summary>
 	/// Summary description for PkixPolicyNode.

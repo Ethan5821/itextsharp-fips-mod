@@ -2,9 +2,9 @@ using System;
 using System.Diagnostics;
 using System.IO;
 
-using Org.BouncyCastle.Crypto;
+using iTextSharp.Org.BouncyCastle.Crypto;
 
-namespace Org.BouncyCastle.Crypto.IO
+namespace iTextSharp.Org.BouncyCastle.Crypto.IO
 {
     public class CipherStream
 		: Stream

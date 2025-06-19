@@ -1,9 +1,9 @@
 using System;
 
-using Org.BouncyCastle.Crypto;
-using Org.BouncyCastle.Crypto.Parameters;
+using iTextSharp.Org.BouncyCastle.Crypto;
+using iTextSharp.Org.BouncyCastle.Crypto.Parameters;
 
-namespace Org.BouncyCastle.Crypto.Modes
+namespace iTextSharp.Org.BouncyCastle.Crypto.Modes
 {
 	/**
 	* implements the GOST 28147 OFB counter mode (GCTR).

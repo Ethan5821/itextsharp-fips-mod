@@ -1,13 +1,13 @@
 using System;
 using System.Collections;
 
-using Org.BouncyCastle.Asn1;
-using Org.BouncyCastle.Crypto.Parameters;
-using Org.BouncyCastle.Math;
-using Org.BouncyCastle.Math.EC;
-using Org.BouncyCastle.Utilities.Collections;
+using iTextSharp.Org.BouncyCastle.Asn1;
+using iTextSharp.Org.BouncyCastle.Crypto.Parameters;
+using iTextSharp.Org.BouncyCastle.Math;
+using iTextSharp.Org.BouncyCastle.Math.EC;
+using iTextSharp.Org.BouncyCastle.Utilities.Collections;
 
-namespace Org.BouncyCastle.Asn1.CryptoPro
+namespace iTextSharp.Org.BouncyCastle.Asn1.CryptoPro
 {
     /**
     * table of the available named parameters for GOST 3410-2001.

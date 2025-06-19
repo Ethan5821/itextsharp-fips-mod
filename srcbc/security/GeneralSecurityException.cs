@@ -1,6 +1,6 @@
 using System;
 
-namespace Org.BouncyCastle.Security
+namespace iTextSharp.Org.BouncyCastle.Security
 {
 	public class GeneralSecurityException
 		: Exception

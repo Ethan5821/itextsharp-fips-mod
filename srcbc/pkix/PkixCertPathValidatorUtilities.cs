@@ -3,21 +3,21 @@ using System.Collections;
 using System.IO;
 using System.Text;
 
-using Org.BouncyCastle.Asn1;
-using Org.BouncyCastle.Asn1.IsisMtt;
-using Org.BouncyCastle.Asn1.X509;
-using Org.BouncyCastle.Crypto;
-using Org.BouncyCastle.Crypto.Parameters;
-using Org.BouncyCastle.Math;
-using Org.BouncyCastle.Security;
-using Org.BouncyCastle.Utilities;
-using Org.BouncyCastle.Utilities.Collections;
-using Org.BouncyCastle.Utilities.Date;
-using Org.BouncyCastle.X509;
-using Org.BouncyCastle.X509.Extension;
-using Org.BouncyCastle.X509.Store;
+using iTextSharp.Org.BouncyCastle.Asn1;
+using iTextSharp.Org.BouncyCastle.Asn1.IsisMtt;
+using iTextSharp.Org.BouncyCastle.Asn1.X509;
+using iTextSharp.Org.BouncyCastle.Crypto;
+using iTextSharp.Org.BouncyCastle.Crypto.Parameters;
+using iTextSharp.Org.BouncyCastle.Math;
+using iTextSharp.Org.BouncyCastle.Security;
+using iTextSharp.Org.BouncyCastle.Utilities;
+using iTextSharp.Org.BouncyCastle.Utilities.Collections;
+using iTextSharp.Org.BouncyCastle.Utilities.Date;
+using iTextSharp.Org.BouncyCastle.X509;
+using iTextSharp.Org.BouncyCastle.X509.Extension;
+using iTextSharp.Org.BouncyCastle.X509.Store;
 
-namespace Org.BouncyCastle.Pkix
+namespace iTextSharp.Org.BouncyCastle.Pkix
 {
 	/// <summary>
 	/// Summary description for PkixCertPathValidatorUtilities.

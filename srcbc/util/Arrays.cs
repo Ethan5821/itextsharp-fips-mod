@@ -1,7 +1,7 @@
 using System;
 using System.Text;
 
-namespace Org.BouncyCastle.Utilities
+namespace iTextSharp.Org.BouncyCastle.Utilities
 {
 
     /// <summary> General array utilities.</summary>

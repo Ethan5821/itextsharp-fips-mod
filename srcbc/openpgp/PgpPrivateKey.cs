@@ -1,8 +1,8 @@
 using System;
 
-using Org.BouncyCastle.Crypto;
+using iTextSharp.Org.BouncyCastle.Crypto;
 
-namespace Org.BouncyCastle.Bcpg.OpenPgp
+namespace iTextSharp.Org.BouncyCastle.Bcpg.OpenPgp
 {
 	/// <remarks>General class to contain a private key for use with other OpenPGP objects.</remarks>
     public class PgpPrivateKey

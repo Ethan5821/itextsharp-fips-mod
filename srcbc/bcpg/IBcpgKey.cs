@@ -1,6 +1,6 @@
 using System;
 
-namespace Org.BouncyCastle.Bcpg
+namespace iTextSharp.Org.BouncyCastle.Bcpg
 {
 	/// <remarks>Base interface for a PGP key.</remarks>
     public interface IBcpgKey

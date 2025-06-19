@@ -1,6 +1,6 @@
 using System;
 
-namespace Org.BouncyCastle.Crypto
+namespace iTextSharp.Org.BouncyCastle.Crypto
 {
     /**
      * interface that a message digest conforms to.

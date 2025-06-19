@@ -3,13 +3,13 @@ using System.Collections;
 using System.Diagnostics;
 using System.IO;
 
-using Org.BouncyCastle.Crypto;
-using Org.BouncyCastle.Crypto.IO;
-using Org.BouncyCastle.Crypto.Parameters;
-using Org.BouncyCastle.Math;
-using Org.BouncyCastle.Security;
+using iTextSharp.Org.BouncyCastle.Crypto;
+using iTextSharp.Org.BouncyCastle.Crypto.IO;
+using iTextSharp.Org.BouncyCastle.Crypto.Parameters;
+using iTextSharp.Org.BouncyCastle.Math;
+using iTextSharp.Org.BouncyCastle.Security;
 
-namespace Org.BouncyCastle.Bcpg.OpenPgp
+namespace iTextSharp.Org.BouncyCastle.Bcpg.OpenPgp
 {
 	/// <remarks>Generator for encrypted objects.</remarks>
     public class PgpEncryptedDataGenerator

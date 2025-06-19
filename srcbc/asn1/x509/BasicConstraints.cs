@@ -1,9 +1,9 @@
 using System;
 
-using Org.BouncyCastle.Asn1;
-using Org.BouncyCastle.Math;
+using iTextSharp.Org.BouncyCastle.Asn1;
+using iTextSharp.Org.BouncyCastle.Math;
 
-namespace Org.BouncyCastle.Asn1.X509
+namespace iTextSharp.Org.BouncyCastle.Asn1.X509
 {
     public class BasicConstraints
         : Asn1Encodable

@@ -3,9 +3,9 @@ using System.Collections;
 using System.IO;
 using System.Text;
 
-using Org.BouncyCastle.Utilities.IO;
+using iTextSharp.Org.BouncyCastle.Utilities.IO;
 
-namespace Org.BouncyCastle.Bcpg
+namespace iTextSharp.Org.BouncyCastle.Bcpg
 {
     /**
     * reader for Base64 armored objects - read the headers and then start returning

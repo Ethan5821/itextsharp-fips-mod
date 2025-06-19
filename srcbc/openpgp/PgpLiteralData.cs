@@ -1,9 +1,9 @@
 using System;
 using System.IO;
 
-using Org.BouncyCastle.Utilities.Date;
+using iTextSharp.Org.BouncyCastle.Utilities.Date;
 
-namespace Org.BouncyCastle.Bcpg.OpenPgp
+namespace iTextSharp.Org.BouncyCastle.Bcpg.OpenPgp
 {
 	/// <summary>Class for processing literal data objects.</summary>
     public class PgpLiteralData

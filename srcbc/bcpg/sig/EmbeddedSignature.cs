@@ -1,6 +1,6 @@
 using System;
 
-namespace Org.BouncyCastle.Bcpg.Sig
+namespace iTextSharp.Org.BouncyCastle.Bcpg.Sig
 {
 	/**
 	 * Packet embedded signature

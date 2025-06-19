@@ -1,10 +1,10 @@
 using System;
 
-using Org.BouncyCastle.Asn1.Nist;
-using Org.BouncyCastle.Asn1.X509;
-using Org.BouncyCastle.Utilities;
+using iTextSharp.Org.BouncyCastle.Asn1.Nist;
+using iTextSharp.Org.BouncyCastle.Asn1.X509;
+using iTextSharp.Org.BouncyCastle.Utilities;
 
-namespace Org.BouncyCastle.Asn1.Ess
+namespace iTextSharp.Org.BouncyCastle.Asn1.Ess
 {
 	public class EssCertIDv2
 		: Asn1Encodable

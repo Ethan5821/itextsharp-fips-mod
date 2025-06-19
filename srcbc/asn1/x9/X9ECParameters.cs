@@ -1,9 +1,9 @@
 using System;
 
-using Org.BouncyCastle.Math;
-using Org.BouncyCastle.Math.EC;
+using iTextSharp.Org.BouncyCastle.Math;
+using iTextSharp.Org.BouncyCastle.Math.EC;
 
-namespace Org.BouncyCastle.Asn1.X9
+namespace iTextSharp.Org.BouncyCastle.Asn1.X9
 {
     /**
      * ASN.1 def for Elliptic-Curve ECParameters structure. See

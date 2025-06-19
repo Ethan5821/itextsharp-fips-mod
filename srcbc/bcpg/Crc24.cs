@@ -1,6 +1,6 @@
 using System;
 
-namespace Org.BouncyCastle.Bcpg
+namespace iTextSharp.Org.BouncyCastle.Bcpg
 {
     public class Crc24
     {

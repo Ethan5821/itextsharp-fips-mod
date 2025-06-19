@@ -1,9 +1,9 @@
 using System;
 using System.Collections;
 
-using Org.BouncyCastle.Math.EC.Abc;
+using iTextSharp.Org.BouncyCastle.Math.EC.Abc;
 
-namespace Org.BouncyCastle.Math.EC
+namespace iTextSharp.Org.BouncyCastle.Math.EC
 {
 	/// <remarks>Base class for an elliptic curve.</remarks>
 	public abstract class ECCurve

@@ -1,6 +1,6 @@
 using System;
 
-namespace Org.BouncyCastle.Utilities.Encoders
+namespace iTextSharp.Org.BouncyCastle.Utilities.Encoders
 {
     /// <summary>
     /// Translator interface.

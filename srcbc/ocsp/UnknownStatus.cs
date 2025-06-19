@@ -1,6 +1,6 @@
 using System;
 
-namespace Org.BouncyCastle.Ocsp
+namespace iTextSharp.Org.BouncyCastle.Ocsp
 {
 	/**
 	 * wrapper for the UnknownInfo object

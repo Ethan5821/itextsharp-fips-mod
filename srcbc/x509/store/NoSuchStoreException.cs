@@ -1,6 +1,6 @@
 using System;
 
-namespace Org.BouncyCastle.X509.Store
+namespace iTextSharp.Org.BouncyCastle.X509.Store
 {
 	public class NoSuchStoreException
 		: X509StoreException

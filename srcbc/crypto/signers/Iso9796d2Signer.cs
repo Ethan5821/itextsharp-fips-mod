@@ -1,10 +1,10 @@
 using System;
 
-using Org.BouncyCastle.Crypto;
-using Org.BouncyCastle.Crypto.Digests;
-using Org.BouncyCastle.Crypto.Parameters;
+using iTextSharp.Org.BouncyCastle.Crypto;
+using iTextSharp.Org.BouncyCastle.Crypto.Digests;
+using iTextSharp.Org.BouncyCastle.Crypto.Parameters;
 
-namespace Org.BouncyCastle.Crypto.Signers
+namespace iTextSharp.Org.BouncyCastle.Crypto.Signers
 {
 
 	/// <summary> ISO9796-2 - mechanism using a hash function with recovery (scheme 1)</summary>

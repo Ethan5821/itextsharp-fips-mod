@@ -1,9 +1,9 @@
 using System;
 using System.Globalization;
 
-using Org.BouncyCastle.Math;
+using iTextSharp.Org.BouncyCastle.Math;
 
-namespace Org.BouncyCastle.Utilities.Net
+namespace iTextSharp.Org.BouncyCastle.Utilities.Net
 {
 	public class IPAddress
 	{

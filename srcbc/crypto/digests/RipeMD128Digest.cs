@@ -1,6 +1,6 @@
 using System;
 
-namespace Org.BouncyCastle.Crypto.Digests
+namespace iTextSharp.Org.BouncyCastle.Crypto.Digests
 {
     /**
     * implementation of RipeMD128

@@ -1,8 +1,8 @@
 using System;
 
-using Org.BouncyCastle.Asn1.Pkcs;
+using iTextSharp.Org.BouncyCastle.Asn1.Pkcs;
 
-namespace Org.BouncyCastle.Asn1.X509
+namespace iTextSharp.Org.BouncyCastle.Asn1.X509
 {
     /**
      * The TbsCertificate object.

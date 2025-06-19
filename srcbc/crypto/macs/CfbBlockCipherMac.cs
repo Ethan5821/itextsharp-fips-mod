@@ -1,10 +1,10 @@
 using System;
 
-using Org.BouncyCastle.Crypto.Modes;
-using Org.BouncyCastle.Crypto.Paddings;
-using Org.BouncyCastle.Crypto.Parameters;
+using iTextSharp.Org.BouncyCastle.Crypto.Modes;
+using iTextSharp.Org.BouncyCastle.Crypto.Paddings;
+using iTextSharp.Org.BouncyCastle.Crypto.Parameters;
 
-namespace Org.BouncyCastle.Crypto.Macs
+namespace iTextSharp.Org.BouncyCastle.Crypto.Macs
 {
     /**
     * implements a Cipher-FeedBack (CFB) mode on top of a simple cipher.

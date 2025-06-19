@@ -1,8 +1,8 @@
 using System;
 
-using Org.BouncyCastle.Math.EC.Abc;
+using iTextSharp.Org.BouncyCastle.Math.EC.Abc;
 
-namespace Org.BouncyCastle.Math.EC.Multiplier
+namespace iTextSharp.Org.BouncyCastle.Math.EC.Multiplier
 {
 	/**
 	* Class implementing the WTNAF (Window

@@ -1,6 +1,6 @@
 using System;
 
-namespace Org.BouncyCastle.Asn1.Cmp
+namespace iTextSharp.Org.BouncyCastle.Asn1.Cmp
 {
 	/**
 	 * <pre>

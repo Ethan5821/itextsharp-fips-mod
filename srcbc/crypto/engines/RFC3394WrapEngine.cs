@@ -1,7 +1,7 @@
 using System;
-using Org.BouncyCastle.Crypto.Parameters;
+using iTextSharp.Org.BouncyCastle.Crypto.Parameters;
 
-namespace Org.BouncyCastle.Crypto.Engines
+namespace iTextSharp.Org.BouncyCastle.Crypto.Engines
 {
 	/// <remarks>
 	/// An implementation of the AES Key Wrapper from the NIST Key Wrap

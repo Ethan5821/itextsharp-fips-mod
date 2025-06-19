@@ -1,6 +1,6 @@
 using System;
 
-namespace Org.BouncyCastle.Asn1.Microsoft
+namespace iTextSharp.Org.BouncyCastle.Asn1.Microsoft
 {
 	public abstract class MicrosoftObjectIdentifiers
 	{

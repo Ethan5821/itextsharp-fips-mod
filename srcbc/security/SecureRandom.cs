@@ -1,11 +1,11 @@
 using System;
 using System.Globalization;
 
-using Org.BouncyCastle.Crypto;
-using Org.BouncyCastle.Crypto.Digests;
-using Org.BouncyCastle.Crypto.Prng;
+using iTextSharp.Org.BouncyCastle.Crypto;
+using iTextSharp.Org.BouncyCastle.Crypto.Digests;
+using iTextSharp.Org.BouncyCastle.Crypto.Prng;
 
-namespace Org.BouncyCastle.Security
+namespace iTextSharp.Org.BouncyCastle.Security
 {
     public class SecureRandom
 		: Random

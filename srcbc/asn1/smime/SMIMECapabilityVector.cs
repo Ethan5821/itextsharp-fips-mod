@@ -1,6 +1,6 @@
-using Org.BouncyCastle.Asn1;
+using iTextSharp.Org.BouncyCastle.Asn1;
 
-namespace Org.BouncyCastle.Asn1.Smime
+namespace iTextSharp.Org.BouncyCastle.Asn1.Smime
 {
     /**
      * Handler for creating a vector S/MIME Capabilities

@@ -1,8 +1,8 @@
 using System;
 
-using Org.BouncyCastle.Crypto.Digests;
+using iTextSharp.Org.BouncyCastle.Crypto.Digests;
 
-namespace Org.BouncyCastle.Crypto.Prng
+namespace iTextSharp.Org.BouncyCastle.Crypto.Prng
 {
 	/**
 	 * Random generation based on the digest with counter. Calling AddSeedMaterial will

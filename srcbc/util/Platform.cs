@@ -2,7 +2,7 @@ using System;
 using System.IO;
 using System.Text;
 
-namespace Org.BouncyCastle.Utilities
+namespace iTextSharp.Org.BouncyCastle.Utilities
 {
 	internal sealed class Platform
 	{

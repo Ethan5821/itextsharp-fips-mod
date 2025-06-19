@@ -1,6 +1,6 @@
 using System.IO;
 
-namespace Org.BouncyCastle.Bcpg
+namespace iTextSharp.Org.BouncyCastle.Bcpg
 {
 	/// <remarks>Basic type for a marker packet.</remarks>
     public class MarkerPacket

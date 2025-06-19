@@ -2,10 +2,10 @@ using System;
 using System.Collections;
 using System.IO;
 
-using Org.BouncyCastle.Security;
-using Org.BouncyCastle.Utilities.Collections;
+using iTextSharp.Org.BouncyCastle.Security;
+using iTextSharp.Org.BouncyCastle.Utilities.Collections;
 
-namespace Org.BouncyCastle.Bcpg.OpenPgp
+namespace iTextSharp.Org.BouncyCastle.Bcpg.OpenPgp
 {
 	/// <remarks>
 	/// Class to hold a single master secret key and its subkeys.

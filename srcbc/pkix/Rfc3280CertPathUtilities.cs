@@ -3,19 +3,19 @@ using System.Collections;
 using System.Globalization;
 using System.IO;
 
-using Org.BouncyCastle.Asn1;
-using Org.BouncyCastle.Asn1.X509;
-using Org.BouncyCastle.Crypto;
-using Org.BouncyCastle.Math;
-using Org.BouncyCastle.Security;
-using Org.BouncyCastle.Security.Certificates;
-using Org.BouncyCastle.Utilities;
-using Org.BouncyCastle.Utilities.Collections;
-using Org.BouncyCastle.Utilities.Date;
-using Org.BouncyCastle.X509;
-using Org.BouncyCastle.X509.Store;
+using iTextSharp.Org.BouncyCastle.Asn1;
+using iTextSharp.Org.BouncyCastle.Asn1.X509;
+using iTextSharp.Org.BouncyCastle.Crypto;
+using iTextSharp.Org.BouncyCastle.Math;
+using iTextSharp.Org.BouncyCastle.Security;
+using iTextSharp.Org.BouncyCastle.Security.Certificates;
+using iTextSharp.Org.BouncyCastle.Utilities;
+using iTextSharp.Org.BouncyCastle.Utilities.Collections;
+using iTextSharp.Org.BouncyCastle.Utilities.Date;
+using iTextSharp.Org.BouncyCastle.X509;
+using iTextSharp.Org.BouncyCastle.X509.Store;
 
-namespace Org.BouncyCastle.Pkix
+namespace iTextSharp.Org.BouncyCastle.Pkix
 {
 	public class Rfc3280CertPathUtilities
 	{
@@ -611,7 +611,7 @@ namespace Org.BouncyCastle.Pkix
 					{
 						try
 						{
-							if (Org.BouncyCastle.Utilities.Arrays.AreEqual(genNames[j].Name.ToAsn1Object().GetEncoded(), issuerBytes))
+							if (iTextSharp.Org.BouncyCastle.Utilities.Arrays.AreEqual(genNames[j].Name.ToAsn1Object().GetEncoded(), issuerBytes))
 							{
 								matchIssuer = true;
 							}

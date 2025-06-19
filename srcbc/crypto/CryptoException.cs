@@ -1,6 +1,6 @@
 using System;
 
-namespace Org.BouncyCastle.Crypto
+namespace iTextSharp.Org.BouncyCastle.Crypto
 {
     public class CryptoException
 		: Exception

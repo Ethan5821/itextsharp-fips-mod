@@ -1,9 +1,9 @@
 using System;
 using System.Collections;
 
-using Org.BouncyCastle.Math;
+using iTextSharp.Org.BouncyCastle.Math;
 
-namespace Org.BouncyCastle.Asn1.CryptoPro
+namespace iTextSharp.Org.BouncyCastle.Asn1.CryptoPro
 {
     public class ECGost3410ParamSetParameters
         : Asn1Encodable

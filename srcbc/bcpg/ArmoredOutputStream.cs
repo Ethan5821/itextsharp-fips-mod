@@ -5,10 +5,10 @@ using System.IO;
 using System.Reflection;
 using System.Text;
 
-using Org.BouncyCastle.Utilities;
-using Org.BouncyCastle.Utilities.IO;
+using iTextSharp.Org.BouncyCastle.Utilities;
+using iTextSharp.Org.BouncyCastle.Utilities.IO;
 
-namespace Org.BouncyCastle.Bcpg
+namespace iTextSharp.Org.BouncyCastle.Bcpg
 {
     /**
     * Basic output stream.

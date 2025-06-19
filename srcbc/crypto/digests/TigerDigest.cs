@@ -1,7 +1,7 @@
 using System;
-using Org.BouncyCastle.Crypto;
+using iTextSharp.Org.BouncyCastle.Crypto;
 
-namespace Org.BouncyCastle.Crypto.Digests
+namespace iTextSharp.Org.BouncyCastle.Crypto.Digests
 {
     /**
     * implementation of Tiger based on:

@@ -1,4 +1,4 @@
-namespace Org.BouncyCastle.Asn1
+namespace iTextSharp.Org.BouncyCastle.Asn1
 {
 	public class BerSequenceParser
 		: Asn1SequenceParser

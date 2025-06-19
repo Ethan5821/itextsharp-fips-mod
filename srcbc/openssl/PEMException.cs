@@ -1,7 +1,7 @@
 using System;
 using System.IO;
 
-namespace Org.BouncyCastle.OpenSsl
+namespace iTextSharp.Org.BouncyCastle.OpenSsl
 {
 	public class PemException
 		: IOException

@@ -1,6 +1,6 @@
-using Org.BouncyCastle.Crypto.Parameters;
+using iTextSharp.Org.BouncyCastle.Crypto.Parameters;
 
-namespace Org.BouncyCastle.Crypto.Modes
+namespace iTextSharp.Org.BouncyCastle.Crypto.Modes
 {
 	/// <summary>
 	/// A block cipher mode that includes authenticated encryption with a streaming mode

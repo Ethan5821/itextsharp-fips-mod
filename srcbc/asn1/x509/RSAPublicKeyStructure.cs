@@ -1,10 +1,10 @@
-using Org.BouncyCastle.Asn1;
-using Org.BouncyCastle.Math;
+using iTextSharp.Org.BouncyCastle.Asn1;
+using iTextSharp.Org.BouncyCastle.Math;
 
 using System;
 using System.Collections;
 
-namespace Org.BouncyCastle.Asn1.X509
+namespace iTextSharp.Org.BouncyCastle.Asn1.X509
 {
     public class RsaPublicKeyStructure
         : Asn1Encodable

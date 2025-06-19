@@ -1,10 +1,10 @@
 using System;
 
-using Org.BouncyCastle.Math;
-using Org.BouncyCastle.Security;
-using Org.BouncyCastle.Utilities;
+using iTextSharp.Org.BouncyCastle.Math;
+using iTextSharp.Org.BouncyCastle.Security;
+using iTextSharp.Org.BouncyCastle.Utilities;
 
-namespace Org.BouncyCastle.Crypto.Agreement.Srp
+namespace iTextSharp.Org.BouncyCastle.Crypto.Agreement.Srp
 {
 	public class Srp6Utilities
 	{

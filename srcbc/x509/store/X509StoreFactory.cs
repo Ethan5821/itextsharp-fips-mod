@@ -2,7 +2,7 @@ using System;
 using System.Collections;
 using System.Globalization;
 
-namespace Org.BouncyCastle.X509.Store
+namespace iTextSharp.Org.BouncyCastle.X509.Store
 {
 	public sealed class X509StoreFactory
 	{

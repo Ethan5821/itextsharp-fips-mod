@@ -2,7 +2,7 @@ using System;
 using System.Collections;
 using System.Text;
 
-namespace Org.BouncyCastle.X509.Store
+namespace iTextSharp.Org.BouncyCastle.X509.Store
 {
 	/// <remarks>This class contains a collection for collection based <code>X509Store</code>s.</remarks>
 	public class X509CollectionStoreParameters

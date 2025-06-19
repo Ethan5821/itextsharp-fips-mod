@@ -1,6 +1,6 @@
 using System;
 
-namespace Org.BouncyCastle.Asn1.Esf
+namespace iTextSharp.Org.BouncyCastle.Asn1.Esf
 {
 	/// <remarks>
 	/// <code>

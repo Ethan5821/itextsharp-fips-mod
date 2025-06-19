@@ -1,7 +1,7 @@
 using System;
 using System.Collections;
 
-namespace Org.BouncyCastle.Utilities.Collections
+namespace iTextSharp.Org.BouncyCastle.Utilities.Collections
 {
 	public sealed class EnumerableProxy
 		: IEnumerable

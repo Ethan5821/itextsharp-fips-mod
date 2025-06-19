@@ -3,9 +3,9 @@ using System.Collections;
 using System.Globalization;
 using System.IO;
 
-using Org.BouncyCastle.Utilities.Collections;
+using iTextSharp.Org.BouncyCastle.Utilities.Collections;
 
-namespace Org.BouncyCastle.Bcpg.OpenPgp
+namespace iTextSharp.Org.BouncyCastle.Bcpg.OpenPgp
 {
 	/// <remarks>
 	/// Often a PGP key ring file is made up of a succession of master/sub-key key rings.

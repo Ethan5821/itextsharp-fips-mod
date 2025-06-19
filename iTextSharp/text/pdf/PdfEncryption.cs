@@ -4,7 +4,7 @@ using System.Security.Cryptography;
 using System.Text;
 using System.IO;
 using iTextSharp.text.pdf.crypto;
-using Org.BouncyCastle.X509;
+using iTextSharp.Org.BouncyCastle.X509;
 
 /*
  * $Id: PdfEncryption.cs,v 1.13 2007/06/14 20:01:48 psoares33 Exp $

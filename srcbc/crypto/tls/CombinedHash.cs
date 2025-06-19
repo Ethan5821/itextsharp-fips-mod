@@ -1,8 +1,8 @@
 using System;
 
-using Org.BouncyCastle.Crypto.Digests;
+using iTextSharp.Org.BouncyCastle.Crypto.Digests;
 
-namespace Org.BouncyCastle.Crypto.Tls
+namespace iTextSharp.Org.BouncyCastle.Crypto.Tls
 {
 	/// <remarks>A combined hash, which implements md5(m) || sha1(m).</remarks>
 	public class CombinedHash

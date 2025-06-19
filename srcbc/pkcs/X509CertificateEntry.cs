@@ -1,8 +1,8 @@
 using System.Collections;
 
-using Org.BouncyCastle.X509;
+using iTextSharp.Org.BouncyCastle.X509;
 
-namespace Org.BouncyCastle.Pkcs
+namespace iTextSharp.Org.BouncyCastle.Pkcs
 {
     public class X509CertificateEntry
         : Pkcs12Entry

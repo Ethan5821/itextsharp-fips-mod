@@ -1,8 +1,8 @@
 using System;
 using System.IO;
-using Org.BouncyCastle.Asn1.X509;
+using iTextSharp.Org.BouncyCastle.Asn1.X509;
 
-namespace Org.BouncyCastle.Asn1.IsisMtt.Ocsp
+namespace iTextSharp.Org.BouncyCastle.Asn1.IsisMtt.Ocsp
 {
 	/**
 	* ISIS-MTT-Optional: The certificate requested by the client by inserting the

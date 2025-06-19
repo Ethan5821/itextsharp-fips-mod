@@ -1,8 +1,8 @@
 using System;
-using Org.BouncyCastle.Crypto;
-using Org.BouncyCastle.Crypto.Parameters;
+using iTextSharp.Org.BouncyCastle.Crypto;
+using iTextSharp.Org.BouncyCastle.Crypto.Parameters;
 
-namespace Org.BouncyCastle.Crypto.Encodings
+namespace iTextSharp.Org.BouncyCastle.Crypto.Encodings
 {
 	/**
 	* ISO 9796-1 padding. Note in the light of recent results you should

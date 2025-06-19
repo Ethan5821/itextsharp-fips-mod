@@ -1,9 +1,9 @@
 using System;
 using System.Collections;
 
-using Org.BouncyCastle.Asn1;
+using iTextSharp.Org.BouncyCastle.Asn1;
 
-namespace Org.BouncyCastle.Asn1.Icao
+namespace iTextSharp.Org.BouncyCastle.Asn1.Icao
 {
     /**
     * The DataGroupHash object.

@@ -1,7 +1,7 @@
 using System;
-using Org.BouncyCastle.Math;
+using iTextSharp.Org.BouncyCastle.Math;
 
-namespace Org.BouncyCastle.Crypto
+namespace iTextSharp.Org.BouncyCastle.Crypto
 {
     /**
      * The basic interface that basic Diffie-Hellman implementations

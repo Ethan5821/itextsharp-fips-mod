@@ -2,7 +2,7 @@ using System;
 
 
 
-namespace Org.BouncyCastle.Bcpg.Sig
+namespace iTextSharp.Org.BouncyCastle.Bcpg.Sig
 {
     /**
     * packet giving whether or not is revocable.

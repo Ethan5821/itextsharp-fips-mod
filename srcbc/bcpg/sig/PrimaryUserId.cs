@@ -2,7 +2,7 @@ using System;
 
 
 
-namespace Org.BouncyCastle.Bcpg.Sig
+namespace iTextSharp.Org.BouncyCastle.Bcpg.Sig
 {
     /**
     * packet giving whether or not the signature is signed using the primary user ID for the key.

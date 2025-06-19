@@ -1,11 +1,11 @@
 using System;
 
-using Org.BouncyCastle.Crypto;
-using Org.BouncyCastle.Crypto.Parameters;
-using Org.BouncyCastle.Math;
-using Org.BouncyCastle.Security;
+using iTextSharp.Org.BouncyCastle.Crypto;
+using iTextSharp.Org.BouncyCastle.Crypto.Parameters;
+using iTextSharp.Org.BouncyCastle.Math;
+using iTextSharp.Org.BouncyCastle.Security;
 
-namespace Org.BouncyCastle.Crypto.Generators
+namespace iTextSharp.Org.BouncyCastle.Crypto.Generators
 {
 	/**
 	 * Generator for Pbe derived keys and ivs as defined by Pkcs 12 V1.0.

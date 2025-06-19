@@ -1,6 +1,6 @@
 using System;
 
-namespace Org.BouncyCastle.Security.Certificates
+namespace iTextSharp.Org.BouncyCastle.Security.Certificates
 {
 	public class CertificateParsingException : CertificateException
 	{

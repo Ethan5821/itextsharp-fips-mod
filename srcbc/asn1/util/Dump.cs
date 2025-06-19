@@ -1,9 +1,9 @@
-using Org.BouncyCastle.Asn1;
+using iTextSharp.Org.BouncyCastle.Asn1;
 
 using System;
 using System.IO;
 
-namespace Org.BouncyCastle.Asn1.Utilities
+namespace iTextSharp.Org.BouncyCastle.Asn1.Utilities
 {
     public sealed class Dump
     {

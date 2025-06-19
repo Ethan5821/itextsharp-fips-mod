@@ -1,6 +1,6 @@
 using System.IO;
 
-namespace Org.BouncyCastle.Asn1
+namespace iTextSharp.Org.BouncyCastle.Asn1
 {
 	/**
 	 * A Der encoded set object

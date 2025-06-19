@@ -1,8 +1,8 @@
 using System;
 
-using Org.BouncyCastle.Math;
+using iTextSharp.Org.BouncyCastle.Math;
 
-namespace Org.BouncyCastle.Math.EC
+namespace iTextSharp.Org.BouncyCastle.Math.EC
 {
 	public class ECAlgorithms
 	{
@@ -30,7 +30,7 @@ namespace Org.BouncyCastle.Math.EC
 		/*
 		* "Shamir's Trick", originally due to E. G. Straus
 		* (Addition chains of vectors. American Mathematical Monthly,
-		* 71(7):806–808, Aug./Sept. 1964)
+		* 71(7):806?08, Aug./Sept. 1964)
 		*  
 		* Input: The points P, Q, scalar k = (km?, ... , k1, k0)
 		* and scalar l = (lm?, ... , l1, l0).

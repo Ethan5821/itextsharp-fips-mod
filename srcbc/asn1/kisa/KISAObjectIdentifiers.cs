@@ -1,4 +1,4 @@
-namespace Org.BouncyCastle.Asn1.Kisa
+namespace iTextSharp.Org.BouncyCastle.Asn1.Kisa
 {
 	public abstract class KisaObjectIdentifiers
 	{

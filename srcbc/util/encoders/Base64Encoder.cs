@@ -1,7 +1,7 @@
 using System;
 using System.IO;
 
-namespace Org.BouncyCastle.Utilities.Encoders
+namespace iTextSharp.Org.BouncyCastle.Utilities.Encoders
 {
 	public class Base64Encoder
 		: IEncoder

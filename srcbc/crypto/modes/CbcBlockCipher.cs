@@ -1,8 +1,8 @@
 using System;
 
-using Org.BouncyCastle.Crypto.Parameters;
+using iTextSharp.Org.BouncyCastle.Crypto.Parameters;
 
-namespace Org.BouncyCastle.Crypto.Modes
+namespace iTextSharp.Org.BouncyCastle.Crypto.Modes
 {
     /**
     * implements Cipher-Block-Chaining (CBC) mode on top of a simple cipher.

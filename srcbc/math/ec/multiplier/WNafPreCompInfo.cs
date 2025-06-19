@@ -1,4 +1,4 @@
-namespace Org.BouncyCastle.Math.EC.Multiplier
+namespace iTextSharp.Org.BouncyCastle.Math.EC.Multiplier
 {
 	/**
 	* Class holding precomputation data for the WNAF (Window Non-Adjacent Form)

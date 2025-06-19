@@ -1,8 +1,8 @@
 using System;
 
-using Org.BouncyCastle.Asn1.X509;
+using iTextSharp.Org.BouncyCastle.Asn1.X509;
 
-namespace Org.BouncyCastle.Pkix
+namespace iTextSharp.Org.BouncyCastle.Pkix
 {
 	/// <summary>
 	/// This class helps to handle CRL revocation reasons mask. Each CRL handles a

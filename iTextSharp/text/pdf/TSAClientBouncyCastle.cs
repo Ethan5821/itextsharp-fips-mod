@@ -4,13 +4,13 @@ using System.Collections;
 using System.Net;
 using System.Text;
 using System.util;
-using Org.BouncyCastle.X509;
-using Org.BouncyCastle.Math;
-using Org.BouncyCastle.Tsp;
-using Org.BouncyCastle.Asn1;
-using Org.BouncyCastle.Asn1.X509;
-using Org.BouncyCastle.Asn1.Cmp;
-using Org.BouncyCastle.Asn1.Tsp;
+using iTextSharp.Org.BouncyCastle.X509;
+using iTextSharp.Org.BouncyCastle.Math;
+using iTextSharp.Org.BouncyCastle.Tsp;
+using iTextSharp.Org.BouncyCastle.Asn1;
+using iTextSharp.Org.BouncyCastle.Asn1.X509;
+using iTextSharp.Org.BouncyCastle.Asn1.Cmp;
+using iTextSharp.Org.BouncyCastle.Asn1.Tsp;
 /*
  * $Id: TSAClientBouncyCastle.java 3973 2009-06-16 10:30:31Z psoares33 $
  *

@@ -1,10 +1,10 @@
 using System;
 
-using Org.BouncyCastle.Asn1;
-using Org.BouncyCastle.Math;
-using Org.BouncyCastle.Utilities;
+using iTextSharp.Org.BouncyCastle.Asn1;
+using iTextSharp.Org.BouncyCastle.Math;
+using iTextSharp.Org.BouncyCastle.Utilities;
 
-namespace Org.BouncyCastle.Asn1.Pkcs
+namespace iTextSharp.Org.BouncyCastle.Asn1.Pkcs
 {
     public class RC2CbcParameter
         : Asn1Encodable

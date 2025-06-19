@@ -1,8 +1,8 @@
 using System.IO;
 
-using Org.BouncyCastle.Asn1.Utilities;
+using iTextSharp.Org.BouncyCastle.Asn1.Utilities;
 
-namespace Org.BouncyCastle.Bcpg.OpenPgp
+namespace iTextSharp.Org.BouncyCastle.Bcpg.OpenPgp
 {
 	public class WrappedGeneratorStream
 		: FilterStream

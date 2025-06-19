@@ -1,11 +1,14 @@
-# iTextSharp 4.1.6 - FIPS Compliant Version
+# iTextSharp 4.1.6.2 – FIPS-Compliant Version with Namespace Refactor
 
-This repository contains a modified version of [iTextSharp 4.1.6](https://github.com/itext/itextsharp) to replace non-FIPS compliant cryptographic algorithms for use in commercial applications requiring FIPS 140-2 compliance.
+This repository contains a modified version of [iTextSharp 4.1.6](https://github.com/itext/itextsharp), adapted for use in commercial applications requiring **FIPS 140-2** compliance and modern .NET compatibility.
 
 ## Modifications
 
 - Replaced non-FIPS compliant encryption modules with FIPS-compliant implementations
-- All changes are made in accordance with the LGPL 2.1 license
+- Renamed internal `Org.BouncyCastle` namespace to `iTextSharp.Org.BouncyCastle` to avoid conflicts with external BouncyCastle libraries
+- Version updated to **4.1.6.2** to reflect these changes while preserving compatibility with the original iTextSharp 4.1.6
+
+All changes are made in accordance with the **LGPL 2.1** license.
 
 ## License
 
@@ -14,5 +17,5 @@ You may freely use, modify, and redistribute this modified version under the ter
 
 ## Disclaimer
 
-This repository only contains modified code from iTextSharp 4.1.6. It is **not** affiliated with the official iText Software.
-
+This repository contains modified code originally from iTextSharp 4.1.6.  
+It is **not affiliated with iText Software** or the maintainers of the official iTextSharp project.

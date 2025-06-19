@@ -1,6 +1,6 @@
 using System;
 
-namespace Org.BouncyCastle.Pkix
+namespace iTextSharp.Org.BouncyCastle.Pkix
 {
     public class PkixNameConstraintValidatorException : Exception
     {

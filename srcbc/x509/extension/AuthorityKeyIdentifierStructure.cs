@@ -1,12 +1,12 @@
 using System;
 
-using Org.BouncyCastle.Asn1;
-using Org.BouncyCastle.Asn1.X509;
-using Org.BouncyCastle.Crypto;
-using Org.BouncyCastle.Security;
-using Org.BouncyCastle.Security.Certificates;
+using iTextSharp.Org.BouncyCastle.Asn1;
+using iTextSharp.Org.BouncyCastle.Asn1.X509;
+using iTextSharp.Org.BouncyCastle.Crypto;
+using iTextSharp.Org.BouncyCastle.Security;
+using iTextSharp.Org.BouncyCastle.Security.Certificates;
 
-namespace Org.BouncyCastle.X509.Extension
+namespace iTextSharp.Org.BouncyCastle.X509.Extension
 {
 	/// <remarks>A high level authority key identifier.</remarks>
 	public class AuthorityKeyIdentifierStructure

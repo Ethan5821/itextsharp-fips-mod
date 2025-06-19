@@ -1,11 +1,11 @@
 using System;
 using System.Collections;
 
-using Org.BouncyCastle.Asn1.Pkcs;
-using Org.BouncyCastle.Crypto;
-using Org.BouncyCastle.Security;
+using iTextSharp.Org.BouncyCastle.Asn1.Pkcs;
+using iTextSharp.Org.BouncyCastle.Crypto;
+using iTextSharp.Org.BouncyCastle.Security;
 
-namespace Org.BouncyCastle.Cms
+namespace iTextSharp.Org.BouncyCastle.Cms
 {
 	class CmsEnvelopedHelper
 	{

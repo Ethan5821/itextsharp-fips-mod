@@ -1,7 +1,7 @@
 using System;
 using System.IO;
 
-namespace Org.BouncyCastle.Asn1.Cms
+namespace iTextSharp.Org.BouncyCastle.Asn1.Cms
 {
 	/**
 	* <pre>

@@ -1,8 +1,8 @@
 using System;
 
-using Org.BouncyCastle.Utilities;
+using iTextSharp.Org.BouncyCastle.Utilities;
 
-namespace Org.BouncyCastle.Asn1
+namespace iTextSharp.Org.BouncyCastle.Asn1
 {
     /**
      * We insert one of these when we find a tag we don't recognise.

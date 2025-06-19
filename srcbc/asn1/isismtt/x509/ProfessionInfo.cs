@@ -1,9 +1,9 @@
 using System;
 using System.Collections;
 
-using Org.BouncyCastle.Asn1.X500;
+using iTextSharp.Org.BouncyCastle.Asn1.X500;
 
-namespace Org.BouncyCastle.Asn1.IsisMtt.X509
+namespace iTextSharp.Org.BouncyCastle.Asn1.IsisMtt.X509
 {
 	/**
 	* Professions, specializations, disciplines, fields of activity, etc.
@@ -19,7 +19,7 @@ namespace Org.BouncyCastle.Asn1.IsisMtt.X509
 	*               }
 	* </pre>
 	* 
-	* @see Org.BouncyCastle.Asn1.IsisMtt.X509.AdmissionSyntax
+	* @see iTextSharp.Org.BouncyCastle.Asn1.IsisMtt.X509.AdmissionSyntax
 	*/
 	public class ProfessionInfo
 		: Asn1Encodable

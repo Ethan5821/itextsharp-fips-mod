@@ -1,9 +1,9 @@
 using System;
 using System.Collections;
 
-using Org.BouncyCastle.Asn1.X500;
+using iTextSharp.Org.BouncyCastle.Asn1.X500;
 
-namespace Org.BouncyCastle.Asn1.X509.SigI
+namespace iTextSharp.Org.BouncyCastle.Asn1.X509.SigI
 {
 	/**
 	* Structure for a name or pseudonym.

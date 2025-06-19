@@ -1,6 +1,6 @@
 using System;
 
-namespace Org.BouncyCastle.Asn1.Pkcs
+namespace iTextSharp.Org.BouncyCastle.Asn1.Pkcs
 {
     public abstract class PkcsObjectIdentifiers
     {

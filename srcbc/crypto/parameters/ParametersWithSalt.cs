@@ -1,8 +1,8 @@
 using System;
 
-using Org.BouncyCastle.Crypto;
+using iTextSharp.Org.BouncyCastle.Crypto;
 
-namespace Org.BouncyCastle.Crypto.Parameters
+namespace iTextSharp.Org.BouncyCastle.Crypto.Parameters
 {
 
     /// <summary> Cipher parameters with a fixed salt value associated with them.</summary>

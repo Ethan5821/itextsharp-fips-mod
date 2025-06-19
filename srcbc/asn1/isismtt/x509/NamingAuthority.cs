@@ -1,9 +1,9 @@
 using System;
 using System.Collections;
 
-using Org.BouncyCastle.Asn1.X500;
+using iTextSharp.Org.BouncyCastle.Asn1.X500;
 
-namespace Org.BouncyCastle.Asn1.IsisMtt.X509
+namespace iTextSharp.Org.BouncyCastle.Asn1.IsisMtt.X509
 {
 	/**
 	* Names of authorities which are responsible for the administration of title
@@ -17,7 +17,7 @@ namespace Org.BouncyCastle.Asn1.IsisMtt.X509
 	*               namingAuthorityText DirectoryString(SIZE(1..128)) OPTIONAL
 	*             }
 	* </pre>
-	* @see Org.BouncyCastle.Asn1.IsisMtt.X509.AdmissionSyntax
+	* @see iTextSharp.Org.BouncyCastle.Asn1.IsisMtt.X509.AdmissionSyntax
 	* 
 	*/
 	public class NamingAuthority

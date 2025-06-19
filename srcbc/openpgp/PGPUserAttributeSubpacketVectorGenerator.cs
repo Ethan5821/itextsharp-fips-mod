@@ -1,9 +1,9 @@
 using System;
 using System.Collections;
 
-using Org.BouncyCastle.Bcpg.Attr;
+using iTextSharp.Org.BouncyCastle.Bcpg.Attr;
 
-namespace Org.BouncyCastle.Bcpg.OpenPgp
+namespace iTextSharp.Org.BouncyCastle.Bcpg.OpenPgp
 {
 	public class PgpUserAttributeSubpacketVectorGenerator
 	{

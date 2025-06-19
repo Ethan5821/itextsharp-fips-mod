@@ -1,9 +1,9 @@
 using System;
 
-using Org.BouncyCastle.Crypto;
-using Org.BouncyCastle.Crypto.Parameters;
+using iTextSharp.Org.BouncyCastle.Crypto;
+using iTextSharp.Org.BouncyCastle.Crypto.Parameters;
 
-namespace Org.BouncyCastle.Crypto.Generators
+namespace iTextSharp.Org.BouncyCastle.Crypto.Generators
 {
 	/**
 	 * KFD2 generator for derived keys and ivs as defined by IEEE P1363a/ISO 18033

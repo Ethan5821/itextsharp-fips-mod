@@ -1,6 +1,6 @@
 using System;
 
-namespace Org.BouncyCastle.Security
+namespace iTextSharp.Org.BouncyCastle.Security
 {
 	[Obsolete("Never thrown")]
 	public class NoSuchAlgorithmException : GeneralSecurityException

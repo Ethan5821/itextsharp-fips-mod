@@ -3,22 +3,22 @@ using System.Collections;
 using System.Text;
 using System.Globalization;
 using System.IO;
-using Org.BouncyCastle.X509;
-using Org.BouncyCastle.Asn1;
-using Org.BouncyCastle.Asn1.Cms;
-using Org.BouncyCastle.Asn1.Ocsp;
-using Org.BouncyCastle.Asn1.Pkcs;
-using Org.BouncyCastle.Asn1.Tsp;
-using Org.BouncyCastle.Asn1.X509;
-using Org.BouncyCastle.Security;
-using Org.BouncyCastle.Crypto;
-using Org.BouncyCastle.Crypto.Generators;
-using Org.BouncyCastle.Crypto.Parameters;
-using Org.BouncyCastle.Math;
-using Org.BouncyCastle.Ocsp;
-using Org.BouncyCastle.Tsp;
-using Org.BouncyCastle.Crypto.Digests;
-using Org.BouncyCastle.Utilities;
+using iTextSharp.Org.BouncyCastle.X509;
+using iTextSharp.Org.BouncyCastle.Asn1;
+using iTextSharp.Org.BouncyCastle.Asn1.Cms;
+using iTextSharp.Org.BouncyCastle.Asn1.Ocsp;
+using iTextSharp.Org.BouncyCastle.Asn1.Pkcs;
+using iTextSharp.Org.BouncyCastle.Asn1.Tsp;
+using iTextSharp.Org.BouncyCastle.Asn1.X509;
+using iTextSharp.Org.BouncyCastle.Security;
+using iTextSharp.Org.BouncyCastle.Crypto;
+using iTextSharp.Org.BouncyCastle.Crypto.Generators;
+using iTextSharp.Org.BouncyCastle.Crypto.Parameters;
+using iTextSharp.Org.BouncyCastle.Math;
+using iTextSharp.Org.BouncyCastle.Ocsp;
+using iTextSharp.Org.BouncyCastle.Tsp;
+using iTextSharp.Org.BouncyCastle.Crypto.Digests;
+using iTextSharp.Org.BouncyCastle.Utilities;
 
 /*
  * Copyright 2004 by Paulo Soares.
@@ -446,12 +446,12 @@ namespace iTextSharp.text.pdf {
             if (next < signerInfo.Count && (signerInfo[next] is DerTaggedObject)) {
                 DerTaggedObject taggedObject = (DerTaggedObject) signerInfo[next];
                 Asn1Set unat = Asn1Set.GetInstance(taggedObject, false);
-                Org.BouncyCastle.Asn1.Cms.AttributeTable attble = new Org.BouncyCastle.Asn1.Cms.AttributeTable(unat);
-                Org.BouncyCastle.Asn1.Cms.Attribute ts = attble[PkcsObjectIdentifiers.IdAASignatureTimeStampToken];
+                iTextSharp.Org.BouncyCastle.Asn1.Cms.AttributeTable attble = new iTextSharp.Org.BouncyCastle.Asn1.Cms.AttributeTable(unat);
+                iTextSharp.Org.BouncyCastle.Asn1.Cms.Attribute ts = attble[PkcsObjectIdentifiers.IdAASignatureTimeStampToken];
                 if (ts != null) {
                     Asn1Set attributeValues = ts.AttrValues;
                     Asn1Sequence tokenSequence = Asn1Sequence.GetInstance(attributeValues[0]);
-                    Org.BouncyCastle.Asn1.Cms.ContentInfo contentInfo = Org.BouncyCastle.Asn1.Cms.ContentInfo.GetInstance(tokenSequence);
+                    iTextSharp.Org.BouncyCastle.Asn1.Cms.ContentInfo contentInfo = iTextSharp.Org.BouncyCastle.Asn1.Cms.ContentInfo.GetInstance(tokenSequence);
                     this.timeStampToken = new TimeStampToken(contentInfo);
                 }
             }

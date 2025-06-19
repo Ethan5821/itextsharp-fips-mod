@@ -1,6 +1,6 @@
 using System;
 
-namespace Org.BouncyCastle.Bcpg.OpenPgp
+namespace iTextSharp.Org.BouncyCastle.Bcpg.OpenPgp
 {
 	public class PgpExperimental
 		: PgpObject

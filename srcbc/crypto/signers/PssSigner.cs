@@ -1,9 +1,9 @@
 using System;
 
-using Org.BouncyCastle.Crypto.Parameters;
-using Org.BouncyCastle.Security;
+using iTextSharp.Org.BouncyCastle.Crypto.Parameters;
+using iTextSharp.Org.BouncyCastle.Security;
 
-namespace Org.BouncyCastle.Crypto.Signers
+namespace iTextSharp.Org.BouncyCastle.Crypto.Signers
 {
 	/// <summary> RSA-PSS as described in Pkcs# 1 v 2.1.
 	/// <p>

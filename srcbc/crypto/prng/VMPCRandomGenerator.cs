@@ -1,4 +1,4 @@
-namespace Org.BouncyCastle.Crypto.Prng
+namespace iTextSharp.Org.BouncyCastle.Crypto.Prng
 {
 	public class VmpcRandomGenerator
 		: IRandomGenerator 

@@ -1,6 +1,6 @@
 using System;
 
-namespace Org.BouncyCastle.Bcpg.OpenPgp
+namespace iTextSharp.Org.BouncyCastle.Bcpg.OpenPgp
 {
 	/// <remarks>
 	/// Thrown if the key checksum is invalid.

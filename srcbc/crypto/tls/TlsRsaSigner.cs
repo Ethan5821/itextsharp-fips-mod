@@ -1,10 +1,10 @@
 using System;
 
-using Org.BouncyCastle.Crypto.Encodings;
-using Org.BouncyCastle.Crypto.Engines;
-using Org.BouncyCastle.Crypto.Signers;
+using iTextSharp.Org.BouncyCastle.Crypto.Encodings;
+using iTextSharp.Org.BouncyCastle.Crypto.Engines;
+using iTextSharp.Org.BouncyCastle.Crypto.Signers;
 
-namespace Org.BouncyCastle.Crypto.Tls
+namespace iTextSharp.Org.BouncyCastle.Crypto.Tls
 {
 	internal class TlsRsaSigner
 		: GenericSigner

@@ -1,7 +1,7 @@
 using System;
 using System.IO;
-using Org.BouncyCastle.X509;
-using Org.BouncyCastle.Crypto;
+using iTextSharp.Org.BouncyCastle.X509;
+using iTextSharp.Org.BouncyCastle.Crypto;
 /*
  * Copyright 2004 by Paulo Soares.
  *

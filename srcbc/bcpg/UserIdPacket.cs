@@ -1,7 +1,7 @@
 using System;
 using System.Text;
 
-namespace Org.BouncyCastle.Bcpg
+namespace iTextSharp.Org.BouncyCastle.Bcpg
 {
     /**
     * Basic type for a user ID packet.

@@ -10,9 +10,9 @@ using iTextSharp.text.pdf.intern;
 using iTextSharp.text.pdf.interfaces;
 using System.util;
 using System.util.zlib;
-using Org.BouncyCastle.Crypto;
-using Org.BouncyCastle.Cms;
-using Org.BouncyCastle.X509;
+using iTextSharp.Org.BouncyCastle.Crypto;
+using iTextSharp.Org.BouncyCastle.Cms;
+using iTextSharp.Org.BouncyCastle.X509;
 /*
  * $Id: PdfReader.cs,v 1.50 2008/05/13 11:25:23 psoares33 Exp $
  * 

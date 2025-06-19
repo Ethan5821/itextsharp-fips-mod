@@ -1,15 +1,15 @@
 using System;
 using System.Collections;
 
-using Org.BouncyCastle.Asn1;
-using Org.BouncyCastle.Asn1.X509;
-using Org.BouncyCastle.Math;
-using Org.BouncyCastle.Utilities;
-using Org.BouncyCastle.Utilities.Collections;
-using Org.BouncyCastle.Utilities.Date;
-using Org.BouncyCastle.X509.Extension;
+using iTextSharp.Org.BouncyCastle.Asn1;
+using iTextSharp.Org.BouncyCastle.Asn1.X509;
+using iTextSharp.Org.BouncyCastle.Math;
+using iTextSharp.Org.BouncyCastle.Utilities;
+using iTextSharp.Org.BouncyCastle.Utilities.Collections;
+using iTextSharp.Org.BouncyCastle.Utilities.Date;
+using iTextSharp.Org.BouncyCastle.X509.Extension;
 
-namespace Org.BouncyCastle.X509.Store
+namespace iTextSharp.Org.BouncyCastle.X509.Store
 {
 	public class X509CertStoreSelector
 		: IX509Selector

@@ -1,10 +1,10 @@
 using System;
 using System.Collections;
 
-using Org.BouncyCastle.Asn1.X500;
-using Org.BouncyCastle.Math;
+using iTextSharp.Org.BouncyCastle.Asn1.X500;
+using iTextSharp.Org.BouncyCastle.Math;
 
-namespace Org.BouncyCastle.Asn1.X509.SigI
+namespace iTextSharp.Org.BouncyCastle.Asn1.X509.SigI
 {
 	/**
 	* Contains personal data for the otherName field in the subjectAltNames

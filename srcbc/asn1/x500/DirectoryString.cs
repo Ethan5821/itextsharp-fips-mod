@@ -1,6 +1,6 @@
 using System;
 
-namespace Org.BouncyCastle.Asn1.X500
+namespace iTextSharp.Org.BouncyCastle.Asn1.X500
 {
 	public class DirectoryString
 		: Asn1Encodable, IAsn1Choice, IAsn1String

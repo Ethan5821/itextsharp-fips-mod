@@ -1,5 +1,5 @@
 using System;
-using Org.BouncyCastle.X509;
+using iTextSharp.Org.BouncyCastle.X509;
 /*
  * $Id: IPdfEncryptionSettings.cs,v 1.2 2007/04/29 13:57:00 psoares33 Exp $
  *

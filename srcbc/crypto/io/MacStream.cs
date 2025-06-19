@@ -1,7 +1,7 @@
 using System;
 using System.IO;
 
-namespace Org.BouncyCastle.Crypto.IO
+namespace iTextSharp.Org.BouncyCastle.Crypto.IO
 {
 	public class MacStream
 		: Stream

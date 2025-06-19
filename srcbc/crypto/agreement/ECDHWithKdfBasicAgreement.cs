@@ -1,14 +1,14 @@
 using System;
 using System.Collections;
 
-using Org.BouncyCastle.Asn1;
-using Org.BouncyCastle.Asn1.Nist;
-using Org.BouncyCastle.Asn1.Pkcs;
-using Org.BouncyCastle.Crypto.Agreement.Kdf;
-using Org.BouncyCastle.Crypto.Parameters;
-using Org.BouncyCastle.Math;
+using iTextSharp.Org.BouncyCastle.Asn1;
+using iTextSharp.Org.BouncyCastle.Asn1.Nist;
+using iTextSharp.Org.BouncyCastle.Asn1.Pkcs;
+using iTextSharp.Org.BouncyCastle.Crypto.Agreement.Kdf;
+using iTextSharp.Org.BouncyCastle.Crypto.Parameters;
+using iTextSharp.Org.BouncyCastle.Math;
 
-namespace Org.BouncyCastle.Crypto.Agreement
+namespace iTextSharp.Org.BouncyCastle.Crypto.Agreement
 {
 	public class ECDHWithKdfBasicAgreement
 		: ECDHBasicAgreement

@@ -3,7 +3,7 @@
 using System;
 using System.Security.Cryptography;
 
-namespace Org.BouncyCastle.Crypto.Prng
+namespace iTextSharp.Org.BouncyCastle.Crypto.Prng
 {
 	/// <summary>
 	/// Uses Microsoft's RNGCryptoServiceProvider

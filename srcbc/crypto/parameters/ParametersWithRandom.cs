@@ -1,8 +1,8 @@
 using System;
 
-using Org.BouncyCastle.Security;
+using iTextSharp.Org.BouncyCastle.Security;
 
-namespace Org.BouncyCastle.Crypto.Parameters
+namespace iTextSharp.Org.BouncyCastle.Crypto.Parameters
 {
     public class ParametersWithRandom
 		: ICipherParameters

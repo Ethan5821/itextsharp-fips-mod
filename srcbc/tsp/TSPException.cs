@@ -1,6 +1,6 @@
 using System;
 
-namespace Org.BouncyCastle.Tsp
+namespace iTextSharp.Org.BouncyCastle.Tsp
 {
 	public class TspException
 		: Exception

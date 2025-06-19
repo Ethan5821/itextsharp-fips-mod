@@ -1,8 +1,8 @@
 using System;
 
-using Org.BouncyCastle.Crypto;
+using iTextSharp.Org.BouncyCastle.Crypto;
 
-namespace Org.BouncyCastle.Crypto.Digests
+namespace iTextSharp.Org.BouncyCastle.Crypto.Digests
 {
 	/**
 	* Implementation of WhirlpoolDigest, based on Java source published by Barreto

@@ -1,7 +1,7 @@
 using System;
-using Org.BouncyCastle.Security;
+using iTextSharp.Org.BouncyCastle.Security;
 
-namespace Org.BouncyCastle.Pkix
+namespace iTextSharp.Org.BouncyCastle.Pkix
 {
 	/**
 	 * An exception indicating one of a variety of problems encountered when 

@@ -1,7 +1,7 @@
 using System;
 using System.IO;
 
-namespace Org.BouncyCastle.Utilities.Zlib {
+namespace iTextSharp.Org.BouncyCastle.Utilities.Zlib {
     /// <summary>
     /// Summary description for DeflaterOutputStream.
     /// </summary>

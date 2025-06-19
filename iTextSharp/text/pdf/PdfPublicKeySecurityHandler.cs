@@ -2,14 +2,14 @@ using System;
 using System.IO;
 using System.Collections;
 using iTextSharp.text.pdf.crypto;
-using Org.BouncyCastle.Crypto;
-using Org.BouncyCastle.Crypto.Parameters;
-using Org.BouncyCastle.X509;
-using Org.BouncyCastle.Asn1;
-using Org.BouncyCastle.Asn1.Cms;
-using Org.BouncyCastle.Asn1.Pkcs;
-using Org.BouncyCastle.Asn1.X509;
-using Org.BouncyCastle.Security;
+using iTextSharp.Org.BouncyCastle.Crypto;
+using iTextSharp.Org.BouncyCastle.Crypto.Parameters;
+using iTextSharp.Org.BouncyCastle.X509;
+using iTextSharp.Org.BouncyCastle.Asn1;
+using iTextSharp.Org.BouncyCastle.Asn1.Cms;
+using iTextSharp.Org.BouncyCastle.Asn1.Pkcs;
+using iTextSharp.Org.BouncyCastle.Asn1.X509;
+using iTextSharp.Org.BouncyCastle.Security;
 
 
 /**
@@ -168,8 +168,8 @@ namespace iTextSharp.text.pdf {
             EncryptedContentInfo encryptedcontentinfo = 
                 new EncryptedContentInfo(PkcsObjectIdentifiers.Data, algorithmidentifier, deroctetstring);
             EnvelopedData env = new EnvelopedData(null, derset, encryptedcontentinfo, null);
-            Org.BouncyCastle.Asn1.Cms.ContentInfo contentinfo = 
-                new Org.BouncyCastle.Asn1.Cms.ContentInfo(PkcsObjectIdentifiers.EnvelopedData, env);
+            iTextSharp.Org.BouncyCastle.Asn1.Cms.ContentInfo contentinfo = 
+                new iTextSharp.Org.BouncyCastle.Asn1.Cms.ContentInfo(PkcsObjectIdentifiers.EnvelopedData, env);
             return contentinfo.ToAsn1Object();        
         }
         
@@ -179,8 +179,8 @@ namespace iTextSharp.text.pdf {
             TbsCertificateStructure tbscertificatestructure = 
                 TbsCertificateStructure.GetInstance(asn1inputstream.ReadObject());
             AlgorithmIdentifier algorithmidentifier = tbscertificatestructure.SubjectPublicKeyInfo.AlgorithmID;
-            Org.BouncyCastle.Asn1.Cms.IssuerAndSerialNumber issuerandserialnumber = 
-                new Org.BouncyCastle.Asn1.Cms.IssuerAndSerialNumber(
+            iTextSharp.Org.BouncyCastle.Asn1.Cms.IssuerAndSerialNumber issuerandserialnumber = 
+                new iTextSharp.Org.BouncyCastle.Asn1.Cms.IssuerAndSerialNumber(
                     tbscertificatestructure.Issuer, 
                     tbscertificatestructure.SerialNumber.Value);
             IBufferedCipher cipher = CipherUtilities.GetCipher(algorithmidentifier.ObjectID);

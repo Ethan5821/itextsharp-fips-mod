@@ -3,9 +3,9 @@ using System.IO;
 using System.Text;
 using System.Text.RegularExpressions;
 
-using Org.BouncyCastle.Math;
+using iTextSharp.Org.BouncyCastle.Math;
 
-namespace Org.BouncyCastle.Asn1
+namespace iTextSharp.Org.BouncyCastle.Asn1
 {
     public class DerObjectIdentifier
         : Asn1Object
